@@ -96,7 +96,7 @@ edition: "default"
 # To make absolute links work, e.g. in canonical links in <head>,
 # include the url where this site will live when it's live (production).
 # E.g. canonical-url: "http://example.com"
-canonical-url: "https://chmh.netifly.app"
+canonical-url: "https://chmh.netify.app"
 
 # Base URL
 # --------
@@ -104,7 +104,7 @@ canonical-url: "https://chmh.netifly.app"
 # the name of your repo, e.g. /electric-book
 # It must start with a slash. Otherwise you can leave it blank. See:
 # http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
-baseurl: "https://chmh.netifly.app"
+baseurl: "https://chmh.netify.app"
 
 # GitHub Pages repository
 # -----------------------
