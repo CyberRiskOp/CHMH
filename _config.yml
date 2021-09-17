@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title               : "Site title"
-url                 : ""
+title               : "Cybersecurity Hiring Manager Handbook"
+url                 : "https://chmh.netlify.app"
 google_analytics_key: ""
 show_full_navigation: false
 
@@ -14,7 +14,7 @@ show_dir_listing    : false
 # ----
 # Book
 
-bookTitle           : "Book title" # Required
+bookTitle           : "Cybersecurity Hiring Manager Handbook" # Required
 shortTitle          : "Short book title"
 description         : "Book short description"
 creators:
@@ -33,7 +33,7 @@ creators:
     twitter         : "@authorname2"
 publisher           : Publisher
 cc                  : CC-BY # Choose a Creative Commons license (https://creativecommons.org/choose/)
-date                : 2018-01-01
+date                : 2021-09-17
 pdf                 : #"/doc/book.pdf" # If different from generated
 pod           : # Print-on-demand version
 markdownD           : #todo
@@ -54,7 +54,7 @@ keywords: "publishing, book, publishing chain, word processor, desktop publishin
 
 status              : draft # draft, revised, published
 version             : v1.0
-versiondate         : 2018-11-20
+versiondate         : 2021-09-17
 
 # -----
 # Book links
@@ -96,7 +96,7 @@ edition: "default"
 # To make absolute links work, e.g. in canonical links in <head>,
 # include the url where this site will live when it's live (production).
 # E.g. canonical-url: "http://example.com"
-canonical-url: "http://example.com"
+canonical-url: "https://chmh.netlify.app"
 
 # Base URL
 # --------
@@ -104,7 +104,7 @@ canonical-url: "http://example.com"
 # the name of your repo, e.g. /electric-book
 # It must start with a slash. Otherwise you can leave it blank. See:
 # http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
-baseurl: ""
+baseurl: "https://chmh.netlify.app"
 
 # GitHub Pages repository
 # -----------------------
