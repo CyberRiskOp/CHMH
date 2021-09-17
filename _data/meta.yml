@@ -6,29 +6,29 @@
 
 project:
   # The name of the organisation or entity that owns this project
-  organisation: "The organisation"
+  organisation: "Cyber Risk Opportunities"
   # A live web address for the organisation
-  url: "http://organisation.com/"
+  url: "http://www.cyberriskopportunities.com/"
   # The default contact email address
-  email: "support@organisation.com"
+  email: "kip@cyberriskopportunities.com"
   # The name of the project of books in this folder.
-  name: "The organisation project name"
+  name: "Cybersecurity Hiring Manager Handbook"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "The organisation project description."
+  description: "A handbook for cybersecurity hiring managers."
   # The logo of the organisation, saved web-ready in /assets
   logo: "logo-publisher.png"
   # An image in /assets that stands for the project
   image: "project-image.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
-  credit: "Built with [jekyll-book-framework](http://example.com)"
+  credit: "Built with [jekyll-book-framework](http://michaelravedoni.github.io/jekyll-book-framework)"
   # Primary language code for this project as a whole
   language: "en"
   # App bundle ID unique across all app stores
-  app-id: com.example.myapp
+  app-id: com.cyberriskopportunities.handbook
   # Version. You must change this with each app update
   version: "1.0.0"
   # Project's repository.
-  repository: https://github.com/michaelravedoni/jekyll-book-framework
+  repository: https://github.com/cyberriskop/CHMH
   repository_branch: master
 
 
@@ -45,28 +45,28 @@ work:
 # ------------------------------------------------------------------------------
 # Title & Description
 # ------------------------------------------------------------------------------
-  title               : "Book title"      # e.g. The four seasons <Recording title proper (RDA 2.3.2)>
-  subtitle            : "Book subtitle"   # e.g. the revenant <Recording other title information>
+  title               : "Cybersecurity Hiring Manager Handbook"      # e.g. The four seasons <Recording title proper (RDA 2.3.2)>
+  subtitle            : ""   # e.g. the revenant <Recording other title information>
   edition             : "First edition"   # e.g. First edition, Revised <Recording edition statement (RDA 2.5)>
   status              : draft             # draft, revised, published
   version             : v1.0.0
   description:
-    short             : The Book's short description.
+    short             : A handbook for cybersecurity hiring managers.
     full: >-
-        The Book's long description.
+        Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
   publisher:                              # e.g. the publisher, imprint or brand name
-    name              : "The publisher name"
-    location          : "1200 Town, Earth, Galaxy"
-    url               : "http://example.com"
+    name              : "Cyber Risk Opportunities"
+    location          : "Seattle, Washington"
+    url               : "http://www.cyberriskopportunities.com"
     logo              : "logo-publisher.png"
-  date                : "2018-12-31"      # e.g. YYYY-MM-DD <Date of publication (RDA 2.8.6)/Date of Work (RDA 6.4))>
-  date_copyright      : "2018"            # e.g. YYYY <Copyright date (RDA 2.11)>
+  date                : "2021-9-17"      # e.g. YYYY-MM-DD <Date of publication (RDA 2.8.6)/Date of Work (RDA 6.4))>
+  date_copyright      : "2021"            # e.g. YYYY <Copyright date (RDA 2.11)>
   #place               : "London"         # e.g. London <Place of Origin of the Work (RDA 6.5)>
   #serie               : ""               # e.g. Infinite scroll <Series Statement Transcription (RDA 2.12)>
-  type                : "Work Type"       # e.g. Novel, Poetry, Memoir
+  type                : "Handbook"       # e.g. Novel, Poetry, Memoir
   source              : ""                # e.g. parent ISBN or ISTC
   language            : "en"              # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
   relation            : ""                # e.g. other edition ISBN <http://dublincore.org/documents/dcmi-terms/#terms-relation>
@@ -99,16 +99,16 @@ work:
 # Contributors <Creator of Work (RDA 19.2)>
 # ------------------------------------------------------------------------------
   creators:
-    - firstName       : A. N.
-      lastName        : Author
+    - firstName       : Kip
+      lastName        : Boyle
       affiliation     : Affiliation
-      email           : authorname@domain.com
-      twitter         : "@authorname"
+      email           : kip@cyberriskopportunities.com
+      twitter         : "@KipBoyle"
       #orcid           : ""
       sameAs          :
-        - https://authorname.com/
+        - https://www.cyberriskopportunities.com/
       bio             : "Creator biography"
-      url             : https://en.wikipedia.org/wiki/Rose_Valland
+      url             : https://linkedin.com/in/kipboyle
       pic             : contributors/author.svg
   contributors: # E.g. other contributors
     - firstName       : A. N.
@@ -123,16 +123,6 @@ work:
       bio             : "Creator biography"
       url             : https://en.wikipedia.org/wiki/Rose_Valland
       pic             : contributors/author.svg
-# ------------------------------------------------------------------------------
-# Subjects
-# ------------------------------------------------------------------------------
-  subjects:
-    - type: LCSH
-      name: Gold mines and mining
-      identifer: http://id.loc.gov/authorities/subjects/sh85055733
-    - type: LCSH
-      name: British Columbia
-      identifier: http://id.loc.gov/authorities/subjects/sh2010007531
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
@@ -150,7 +140,7 @@ work:
 # Revision History
 # ------------------------------------------------------------------------------
   revision_history:
-    - date: 2018-01-01
+    - date: 2021-09-17
       summary: First edition
 # ------------------------------------------------------------------------------
 # Products
@@ -160,7 +150,7 @@ work:
       start-page: "0-6-foreword" # At which file should users start reading?
       #contents-page: "0-3-contents" # Your contents-page file, if you have one.
       about-page: "104-about" # Your about-page file, if you have one.
-      date: "2018-02-01" # YYYY-MM-DD e.g. publication date or last revision
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital online" # e.g. Print-on-demand, Digital download, Digital online
       identifier: "" # e.g. ISBN or UUID
       image: "cover.jpg"
@@ -204,7 +194,7 @@ work:
           file: "103-index"
           id: "index"
     paged-view:
-      date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
       identifier: "" # e.g. ISBN or UUID
       image: "cover.jpg"
@@ -316,10 +306,10 @@ work:
           size_in: "6in 9in"
           size_mm: "152mm 228mm"
           color: "Color"
-          date: 2018-01-03
-          url: "/output/book-a5-20180103.pdf" # /output/work-format-yyyymmdd.pdf
+          date: 2021-09-17
+          url: "/output/book-a5-20210917.pdf" # /output/work-format-yyyymmdd.pdf
     epub:
-      date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
       #identifier: "9780000000000" # e.g. ISBN or UUID
       image: "cover.jpg"
@@ -359,8 +349,8 @@ work:
           size_mm: 152mm 228mm
           color: B&W
           provider: Lulu
-          url: https://example.com
-          price: 20$
+          url: https://cyberriskop.github.io/CHMH
+          price: 0$
         - name: Paperback
           format: A5
           size: 14.8x21cm
@@ -368,16 +358,16 @@ work:
           size_mm: 148mm 210mm
           color: B&W
           provider: Lulu
-          url: https://example.com
-          price: 10$
+          url: https://cyberriskop.github.io/CHMH
+          price: 0$
   translations: # Inside translations, include the same structure as in 'works'. Include only items that override the parent work's equivalents.
     - directory: "fr"
       contents_directory  : "/text" # Your contents directory, if you have one. Begin with a '/' or empty ''.
       language: "fr"
-      title: "Titre du livre"
-      subtitle: "Sous-titre du livre"
+      title: ""
+      subtitle: ""
       description:
-        short: "Description du livre"
+        short: ""
       products:
         web:
           start-page: "00-introduction" # At which file should users start reading?
@@ -400,7 +390,7 @@ work:
               file: "05-conclusion"
               id: "conclusion"
         paged-view:
-          date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
+          date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
           format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
           layout: book
           files:
