@@ -68,6 +68,6 @@ So tell us when we don’t hit the mark so we can do better with the next releas
 
 **Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!**
 
-Kip Boyle
-Seattle, WA
+Kip Boyle  
+Seattle, WA  
 September 2021
