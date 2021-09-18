@@ -348,7 +348,7 @@ work:
           size_in: 6in 9in
           size_mm: 152mm 228mm
           color: B&W
-          provider: Lulu
+          provider: n-a
           url: https://cyberriskop.github.io/CHMH
           price: 0$
         - name: Paperback
@@ -357,7 +357,7 @@ work:
           size_in: 5.83in 8.27in
           size_mm: 148mm 210mm
           color: B&W
-          provider: Lulu
+          provider: n-a
           url: https://cyberriskop.github.io/CHMH
           price: 0$
   translations: # Inside translations, include the same structure as in 'works'. Include only items that override the parent work's equivalents.
