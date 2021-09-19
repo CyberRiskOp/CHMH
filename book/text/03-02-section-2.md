@@ -37,6 +37,8 @@ Determine the role and title
 			1. Compensation and other impacts
 			1. Using internships
 		1. Common cybersecurity job functions and titles, and skill sets (reference BLS statistics in Additional Resources)
+
+____
 		
 This step is vital to ensure you hire the right candidate. In order to know what you are looking for, you have to prepare and be clear on what your needs and wants are. Once you have a direction, ensure HR and recruiting understand those needs too.  
 
@@ -53,9 +55,24 @@ This step is vital to ensure you hire the right candidate. In order to know what
 	 1. Strategize with them, make them your advocate
 	 1. Note: the hiring manager may have to do this part (a-d) if your recruiter or HR don’t understand or don’t want to put in this kind of effort. If you do the work now, your attrition rate will be lower. This means you won’t have to do this as many times.
 	 1. Always refer to your goals during the hiring process– what are you trying to accomplish by hiring this person? What are you looking for? Why are you looking for those qualities? Are you being unreasonable in the skill requirements? Don’t look for a unicorn.
-  6. Understand professional seniority levels  
-	 1. Entry-level, mid-level, senior-level, etc.  
-     1. Note on entry-level jobs: there are entry-level tasks in cybersecurity. Not every team can automate away the grunt work. Also, entry-level analysts need a place to start and room to grow. If you develop them and foster a welcoming environment, they will grow into an asset for you.  
+  6. Best practice to ask for more headcount:  
+     1. Make the case  
+     1. Show value and ROI – metrics: numbers. What is the mean time to respond and mean time to close a ticket? Do you have enough people to work tickets to ensure SLAs are met? If not, show it. Use numbers to show that you need people and where. Use data, not emotions.  
+         1. Create a menu of services your department provide, what FTE does what and what you are missing. Can also use this to show where you’d assign the new FTE you are asking for.  
+         2. List responsibilities and/or projects your new hire would take on and how that impacts the org and company positively.  
+         3. Common pitfalls - not getting buy-in from the org – come up with solid data that get them buy in. What are the impacts of not having enough people?  
+              1. Burn out  
+              2. Attrition  
+              3. Inability to attract talent  
+              4. Bad reputation  
+              5. Outages = Customer impacting  
+  7. What if you can’t get more people?  
+     1. Communicate and show negative impact to senior leadership  
+     1. Automate
+     1. Clarify priorities and emphasize work in priority order
+  8. Understand professional seniority levels  
+     1. Entry-level, mid-level, senior-level, etc.  
+         - Note on entry-level jobs: there are entry-level tasks in cybersecurity. Not every team can automate away the grunt work. Also, entry-level analysts need a place to start and room to grow. If you develop them and foster a welcoming environment, they will grow into an asset for you.  
      1. What organization-specific requirements are there for the role?
      1. Work with HR to establish a reasonable compensation range for the levels for the market you are in.    
      1. Common cybersecurity job functions and titles (reference BLS statistics in Additional Resources).  
