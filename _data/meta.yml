@@ -238,7 +238,7 @@ work:
               file: "06-02-section-2"
               id: "06-chapter-6-section-2"
         - label: "Conclusion"
-          file: "05-conclusion"
+          file: "07-conclusion"
           id: "conclusion"
         - label: "Appendix"
           file: "06-00-appendix"
