@@ -2,7 +2,7 @@
 title: "Introduction"
 type: chapter
 ---
- Assembling, leading, and managing a team of people to achieve cybersecurity (and information security) program goals is difficult, even under the best of circumstances.
+Assembling, leading, and managing a team of people to achieve cybersecurity (and information security) program goals is difficult, even under the best of circumstances.
 In my experience, the circumstances are rarely “best”.
 Sure, hiring managers across all disciplines search endlessly to find and retain the best people. They have to equip, train, and support them every day. And figure out how to nurture each person according to their unique abilities.
 But, as you know, there are unique hiring challenges facing cybersecurity managers. Because cyber is a dynamic risk, our work is done in a continuously evolving problem space. So we need an endless training budget and time away from the daily grind to actually learn. And then do.
@@ -16,7 +16,9 @@ But this handbook isn’t just for hiring. As you’ll see, it covers the entire
   1. **Preparing** to hire the next person
   1. **Executing** your plan to identify, screen, and negotiate compensation for a great candidate
   1. **Retaining** your team members
-  1. Gracefully handling the transition of a team member who is **departing** for greener pastures                                                                 We want you to be the employer for people who could work anywhere, but choose to work on your team because of the “unique and attractive” ways you do things.
+  1. Gracefully handling the transition of a team member who is **departing** for greener pastures                                                                
+  
+We want you to be the employer for people who could work anywhere, but choose to work on your team because of the “unique and attractive” ways you do things.
 But our vision for you is even bigger than mastering the full lifecycle of a team member. By building the team of your dreams, you can not only achieve your program goals, you can set yourself up to be an influencer with your senior decision makers.
 What does this mean?
 You become an influencer when the other senior decision makers and top influencers of your organization seek you out before they make major decisions that have cybersecurity implications. Instead of finding out about the newest system just prior to rollout into production, the people who first thought up that system start talking with you about it before they submit their business case to get it approved for development.
@@ -35,9 +37,11 @@ Finally, we wanted to make this *Handbook* useful to 90% of the hiring managers,
   
   1. You are hiring in the United States, Canada, or similar countries.
   1. The Ideals we espouse in the Handbook are a good fit for your specific situation. 
+
 However, we recognize that there is so much variability in the situations cybersecurity hiring managers find themselves working in (e.g., industry, mission, organization size, etc.) that we may not be able to consistently hit that target.
 So tell us when we don’t hit the mark so we can do better with the next release.
-##Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!
-Kip Boyle  
-Seattle, WA  
-September 2021
+## Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!
+
+- Kip Boyle  
+- Seattle, WA  
+- September 2021
