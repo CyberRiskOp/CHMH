@@ -3,6 +3,9 @@ title: "Determine the role and title"
 type: section
 parent: Chapter 3: Preparation
 ---
+Determine the role and title
+===============
+
 **Rough outline for this section--please contribute**
 
   1. Determine the role and title (reference BLS statistics in Additional Resources)  
