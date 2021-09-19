@@ -36,6 +36,7 @@ type: chapter
   2. The Ideals we espouse in the Handbook are a good fit for your specific situation. 
 - However, we recognize that there is so much variability in the situations cybersecurity hiring managers find themselves working in (e.g., industry, mission, organization size, etc.) that we may not be able to consistently hit that target.
 - So tell us when we don’t hit the mark so we can do better with the next release.
+
 **Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!
 - Kip Boyle  
 - Seattle, WA  
