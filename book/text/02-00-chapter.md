@@ -2,7 +2,7 @@
 title: "Foundation"
 type: chapter
 ---
-**Foundation**
+**Ideals**
 
   - Take enjoyment from building teams and helping people excel in their careers while achieving your program goals.
   - Treat hiring as one of the most important duties you perform in support of your organization.

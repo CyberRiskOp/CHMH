@@ -164,7 +164,7 @@ work:
         - label: "Introduction"
           file: "00-introduction"
           id: "00-introduction"
-        - label: "Chapter 1: Hiring Manager Ideas"
+        - label: "Chapter 1: Hiring Manager Ideals"
           file: "01-00-chapter"
           id: "01-chapter-1"
           children:
