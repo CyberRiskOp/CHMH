@@ -2,7 +2,6 @@
 title: "Introduction"
 type: chapter
 ---
-
 - Assembling, leading, and managing a team of people to achieve cybersecurity (and information security) program goals is difficult, even under the best of circumstances.
  
 - In my experience, the circumstances are rarely “best”.
@@ -67,7 +66,6 @@ type: chapter
 - So tell us when we don’t hit the mark so we can do better with the next release.
 
 **Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!**
-
 - Kip Boyle  
 - Seattle, WA  
 - September 2021
