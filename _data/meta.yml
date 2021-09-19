@@ -230,6 +230,13 @@ work:
         - label: "Chapter 6: Departure"
           file: "06-00-chapter"
           id: "06-chapter-6"
+          children:
+            - label: "Letting go of poor performers"
+              file: "06-01-section-1"
+              id: "06-chapter-6-section-1"
+            - label: "Offboarding"
+              file: "06-02-section-2"
+              id: "06-chapter-6-section-2"
         - label: "Conclusion"
           file: "05-conclusion"
           id: "conclusion"
