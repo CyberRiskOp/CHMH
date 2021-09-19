@@ -180,7 +180,6 @@ work:
         - label: "Chapter 3: Preparation"
           file: "03-00-chapter"
           id: "03-chapter-3"
-        - label: "Chapter 4: Execution"
           file: "04-00-chapter"
           id: "04-chapter-4"
         - label: "Chapter 5: Retention"
