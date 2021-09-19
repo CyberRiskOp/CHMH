@@ -11,7 +11,6 @@ type: chapter
 - Despite all this, there are plenty of eager candidates, both qualified and unqualified, who are searching for the right job. But where to find them? How to get them on your team? How to keep them around and productive?
 - So, yeah, we need a *Cybersecurity Hiring Manager Handbook*.
 - But this handbook isn’t just for hiring. As you’ll see, it covers the entire “lifecycle” of a teammate:
- 
   1. Setting the **foundation** for team building
   2. **Preparing** to hire the next person
   3. **Executing** your plan to identify, screen, and negotiate compensation for a great candidate
@@ -33,11 +32,11 @@ type: chapter
 - This Handbook could also be useful for managers of consulting or security services teams, although we realize the business context of these teams is different.
 - The secondary audience for this *Handbook* is anyone who helps supervisors build teams, like our friends in Human Resources and our team members who know where to find amazing new candidates and help them succeed once they become teammates.
 - Finally, we wanted to make this *Handbook* useful to 90% of the hiring managers, 90% of the time. So here are two key assumptions:
-
   1. You are hiring in the United States, Canada, or similar countries.
   2. The Ideals we espouse in the Handbook are a good fit for your specific situation. 
 - However, we recognize that there is so much variability in the situations cybersecurity hiring managers find themselves working in (e.g., industry, mission, organization size, etc.) that we may not be able to consistently hit that target.
 - So tell us when we don’t hit the mark so we can do better with the next release.
+
 **Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!**
 - Kip Boyle  
 - Seattle, WA  
