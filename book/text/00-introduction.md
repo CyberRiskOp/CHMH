@@ -11,11 +11,12 @@ Because our discipline is relatively new, we lack highly structured and clearly 
 Despite all this, there are plenty of eager candidates, both qualified and unqualified, who are searching for the right job. But where to find them? How to get them on your team? How to keep them around and productive?
 So, yeah, we need a *Cybersecurity Hiring Manager Handbook*.
 But this handbook isn’t just for hiring. As you’ll see, it covers the entire “lifecycle” of a teammate:
-  a. Setting the **foundation** for team building
-  a. **Preparing** to hire the next person
-  a. **Executing** your plan to identify, screen, and negotiate compensation for a great candidate
-  a. **Retaining** your team members
-  a. Gracefully handling the transition of a team member who is **departing** for greener pastures
+  
+  1. Setting the **foundation** for team building
+  1. **Preparing** to hire the next person
+  1. **Executing** your plan to identify, screen, and negotiate compensation for a great candidate
+  1. **Retaining** your team members
+  1. Gracefully handling the transition of a team member who is **departing** for greener pastures
 We want you to be the employer for people who could work anywhere, but choose to work on your team because of the “unique and attractive” ways you do things.
 But our vision for you is even bigger than mastering the full lifecycle of a team member. By building the team of your dreams, you can not only achieve your program goals, you can set yourself up to be an influencer with your senior decision makers.
 What does this mean?
@@ -32,11 +33,12 @@ Everyone is welcome to use this handbook, including job hunters. But our primary
 This Handbook could also be useful for managers of consulting or security services teams, although we realize the business context of these teams is different.
 The secondary audience for this *Handbook* is anyone who helps supervisors build teams, like our friends in Human Resources and our team members who know where to find amazing new candidates and help them succeed once they become teammates.
 Finally, we wanted to make this *Handbook* useful to 90% of the hiring managers, 90% of the time. So here are two key assumptions:
-  a. You are hiring in the United States, Canada, or similar countries.
-  a. The Ideals we espouse in the Handbook are a good fit for your specific situation. 
+  
+  1. You are hiring in the United States, Canada, or similar countries.
+  1. The Ideals we espouse in the Handbook are a good fit for your specific situation. 
 However, we recognize that there is so much variability in the situations cybersecurity hiring managers find themselves working in (e.g., industry, mission, organization size, etc.) that we may not be able to consistently hit that target.
 So tell us when we don’t hit the mark so we can do better with the next release.
-**Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!
+##Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!
 Kip Boyle  
 Seattle, WA  
 September 2021
