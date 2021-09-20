@@ -155,12 +155,6 @@ work:
       identifier: "" # e.g. ISBN or UUID
       image: "cover.jpg"
       nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-        - label: "Foreword"
-          file: "0-6-foreword"
-          id: "foreword"
-        - label: "Preface"
-          file: "0-7-preface"
-          id: "preface"
         - label: "Introduction"
           file: "00-introduction"
           id: "00-introduction"
@@ -240,22 +234,6 @@ work:
         - label: "Conclusion"
           file: "07-conclusion"
           id: "conclusion"
-        - label: "Appendix"
-          file: "06-00-appendix"
-          id: "appendix"
-          children:
-            - label: "Appendix 1"
-              file: "06-01-appendix-1"
-              id: "appendix-1"
-        - label: "Glossary"
-          file: "100-glossary"
-          id: "glossary"
-        - label: "Bibliography"
-          file: "102-bibliography"
-          id: "glossary"
-        - label: "Index"
-          file: "103-index"
-          id: "index"
     paged-view:
       date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
