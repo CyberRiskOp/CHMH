@@ -158,7 +158,7 @@ work:
 # ------------------------------------------------------------------------------
   products: # Metadata for each product for this title (only use values that override parent metadata)
     web:
-      start-page: "0-6-foreword" # At which file should users start reading?
+      start-page: "00-introduction" # At which file should users start reading?
       #contents-page: "0-3-contents" # Your contents-page file, if you have one.
       about-page: "104-about" # Your about-page file, if you have one.
       date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
