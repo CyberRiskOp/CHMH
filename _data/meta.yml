@@ -74,12 +74,12 @@ work:
                                           # <Coverage of the Content (RDA 7.3)>
   cover_image:
     image             : "image-cover.jpg"
-    creator           : "August Jernberg"
-    title             : "Die Besucher vor Rembrandts Nachtwache in Amsterdam"
-    date              : "1885"
-    text              : "The painting depicts a group of people in front of Rembrandt's famous painting <i>The Night Watch</i> at Treppenhuis, Holland. Exhibited at the Malmö Art Museum."
+    creator           : ""
+    title             : ""
+    date              : ""
+    text              : ""
     source            : "Wikimedia commons"
-    source_url        : "https://commons.wikimedia.org/wiki/File:August_Jernberg_-_Treppenhuis_-_Google_Art_Project.jpg"
+    source_url        : ""
     license           : "Public domain"
   identifiers:                            # e.g. <Identifier for the manifestation (RDA 2.15)>
     #isbn              : ""
@@ -91,10 +91,10 @@ work:
   isFamilyFriendly    : true
   genre               : ""
   funder              : ""
-  abstract            : "Abstract text."
-  keywords            : "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
-  abstract_en         : "Abstract text in english."
-  keywords_en         : "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  abstract            : ""
+  keywords            : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  abstract_en         : ""
+  keywords_en         : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
 # ------------------------------------------------------------------------------
 # Contributors <Creator of Work (RDA 19.2)>
 # ------------------------------------------------------------------------------
@@ -110,8 +110,19 @@ work:
       bio             : "Creator biography"
       url             : https://linkedin.com/in/kipboyle
       pic             : contributors/author.svg
+    - firstName       : Marc
+      lastName        : Menninger
+      affiliation     : Affiliation
+      email           : marc@marcmenninger.com
+      twitter         : "@MarcMenninger"
+      #orcid           : ""
+      sameAs          :
+        - http://www.marcmenninger.com/
+      bio             : "Creator biography"
+      url             : https://www.linkedin.com/in/marcmenninger
+      pic             : contributors/author.svg  
   contributors: # E.g. other contributors
-    - firstName       : A. N.
+    - firstName       : In Progress
       lastName        : Name
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Affiliation
