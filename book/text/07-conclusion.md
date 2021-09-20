@@ -2,10 +2,6 @@
 title: "Conclusion"
 type: chapter
 ---
-
-Conclusion
-==========
-  
 **Rough outline for this section--please contribute**
   
   1. Growing your manager talent
