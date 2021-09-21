@@ -101,7 +101,7 @@ work:
   creators:
     - firstName       : Kip
       lastName        : Boyle
-      affiliation     : Affiliation
+      affiliation     : Co-Creator
       email           : kip@cyberriskopportunities.com
       twitter         : "@KipBoyle"
       #orcid           : ""
@@ -112,7 +112,7 @@ work:
       pic             : contributors/author.svg
     - firstName       : Marc
       lastName        : Menninger
-      affiliation     : Affiliation
+      affiliation     : Co-Creator
       email           : marc@marcmenninger.com
       twitter         : "@MarcMenninger"
       #orcid           : ""
@@ -122,17 +122,17 @@ work:
       url             : https://www.linkedin.com/in/marcmenninger
       pic             : contributors/author.svg  
   contributors: # E.g. other contributors
-    - firstName       : In Progress
+    - firstName       : Chris Clai
       lastName        : Name
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
-      affiliation     : Affiliation
-      email           : authorname@domain.com
-      twitter         : "@authorname"
+      affiliation     : Contributor
+      email           : chris.clai@outlook.com
+      twitter         : ""
       #orcid           : ""
       sameAs          :
-        - https://authorname.com/
+        - https:///
       bio             : "Creator biography"
-      url             : https://en.wikipedia.org/wiki/Rose_Valland
+      url             : https://
       pic             : contributors/author.svg
 # ------------------------------------------------------------------------------
 # Copright & License
