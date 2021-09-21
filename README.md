@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e82a8da-f2dd-471e-a835-5454343a3944/deploy-status)](https://app.netlify.com/sites/cybersecurity-hiring-manager-handbook/deploys)
 <h1 align="center">jekyll-book-framework</h1> <br>
 <!--<p align="center">
     <img alt="jekyll-book-framework logo" title="jekyll-book-framework logo" src="docs/logo-jekyll-book-framework.png" width="300">
