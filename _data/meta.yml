@@ -127,12 +127,12 @@ work:
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : chris.clai@outlook.com
-      twitter         : ""
+      twitter         : "@chrisclai"
       #orcid           : ""
       sameAs          :
-        - https:///
+        - https://syntaxbearror.io/
       bio             : "Creator biography"
-      url             : https://
+      url             : https://www.linkedin.com/in/christopherclai/
       pic             : contributors/author.svg
 # ------------------------------------------------------------------------------
 # Copright & License
