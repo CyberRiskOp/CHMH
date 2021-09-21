@@ -127,12 +127,12 @@ work:
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : chris.clai@outlook.com
-      twitter         : ""
+      twitter         : "@chrisclai"
       #orcid           : ""
       sameAs          :
-        - https:///
-      bio             : "Creator biography"
-      url             : https://
+        - https://syntaxbearror.io/
+      bio             : "Chris is a dynamic IT Professional with more than 20 years of experience in Information Technology as a Developer, Systems Administrator, and Security Engineer both in their own endeavors, and with private firms. As a member of the LGBTQ+ community who has faced adversity themselves in their career, Chris uses their privilege to break barriers that many minorities face in IT and guiding organizations toward better practices to build a stronger workforce and security posture. Chris contributes to the greater industry through speaking at conferences, mentoring fellow and aspiring professionals, and sharing knowledge via their website, GitHub, and other various platforms."
+      url             : https://www.linkedin.com/in/christopherclai/
       pic             : contributors/author.svg
 # ------------------------------------------------------------------------------
 # Copright & License
