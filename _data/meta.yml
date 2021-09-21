@@ -122,8 +122,8 @@ work:
       url             : https://www.linkedin.com/in/marcmenninger
       pic             : contributors/author.svg  
   contributors: # E.g. other contributors
-    - firstName       : Chris Clai
-      lastName        : Name
+    - firstName       : Chris
+      lastName        : Clai
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : chris.clai@outlook.com
