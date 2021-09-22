@@ -106,9 +106,9 @@ work:
       twitter         : "@KipBoyle"
       #orcid           : ""
       sameAs          :
-        - https://www.cyberriskopportunities.com/
+        - https://linkedin.com/in/kipboyle
       bio             : "Creator biography"
-      url             : https://linkedin.com/in/kipboyle
+      url             : https://www.cyberriskopportunities.com/ 
       pic             : contributors/author.svg
     - firstName       : Marc
       lastName        : Menninger
@@ -117,9 +117,9 @@ work:
       twitter         : "@MarcMenninger"
       #orcid           : ""
       sameAs          :
-        - http://www.marcmenninger.com/
+        - https://www.linkedin.com/in/marcmenninger
       bio             : "Creator biography"
-      url             : https://www.linkedin.com/in/marcmenninger
+      url             : http://www.marcmenninger.com/
       pic             : contributors/author.svg  
   contributors: # E.g. other contributors
     - firstName       : Chris
@@ -130,10 +130,10 @@ work:
       twitter         : "@chrisclai"
       #orcid           : ""
       sameAs          :
-        - https://syntaxbearror.io/
+        - https://www.linkedin.com/in/christopherclai/
       bio             : "Chris is a dynamic IT Professional with more than 20 years of experience in Information Technology as a Developer, Systems Administrator, and Security Engineer both in their own endeavors, and with private firms. As a member of the LGBTQ+ community who has faced adversity themselves in their career, Chris uses their privilege to break barriers that many minorities face in IT and guiding organizations toward better practices to build a stronger workforce and security posture. Chris contributes to the greater industry through speaking at conferences, mentoring fellow and aspiring professionals, and sharing knowledge via their website, GitHub, and other various platforms."
-      url             : https://www.linkedin.com/in/christopherclai/
-      pic             : contributors/author.svg
+      url             : https://syntaxbearror.io/
+      pic             : contributors/Chris.svg
     - firstName       : Michael
       lastName        : Mcpherson
       role            : Repo Man        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
@@ -144,8 +144,8 @@ work:
       sameAs          :
         - https://michael89mcpherson.github.io/about-me/
       bio             : "Michael is particularly interested in projects that solve cybersecurity problems using open source tools. If you think I can be helpful to you or would like to connect with me, please feel free to get in touch."
-      url             : https://www.linkedin.com/in/michael-mcpherson-264852145/
-      pic             : contributors/author.svg
+      url             : https://michael89mcpherson.github.io/about-me/
+      pic             : contributors/Michael.svg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
