@@ -2,6 +2,7 @@
 title: "Introduction"
 type: chapter
 ---
+<img src="{{site.baseurl}}/images/image-cover.jpg" alt="" style="width:750px;height:auto;">
 Assembling, leading, and managing a team of people to achieve cybersecurity (and information security) program goals is difficult, even under the best of circumstances. In my experience, the circumstances are rarely “best”.
 Sure, hiring managers across all disciplines search endlessly to find and retain the best people. They have to equip, train, and support them every day. And figure out how to nurture each person according to their unique abilities.
 But, as you know, there are unique hiring challenges facing cybersecurity managers. Because cyber is a dynamic risk, our work is done in a continuously evolving problem space. So we need an endless training budget and time away from the daily grind to actually learn. And then do.
