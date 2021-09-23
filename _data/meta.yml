@@ -383,7 +383,7 @@ work:
           size_mm: "152mm 228mm"
           color: "Color"
           date: 2021-09-17
-          url: "/output/book-a5-20210917.pdf" # /output/work-format-yyyymmdd.pdf
+          url: "" # /output/work-format-yyyymmdd.pdf
     epub:
       date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
