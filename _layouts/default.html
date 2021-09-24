@@ -5,36 +5,39 @@ layout: microtypo
 {% include metadata %}
 {% include head.html %}
 <body>
-{%- include status.html -%}
 {% include header.html %}
 
-		<section class="jbf-main">
-			<div class="jbf-work-header jbf-container jbf-block">
-				{% if page.parent %}<div class="jbf-work-parent-heading">{{ page.parent }}</div>{% endif %}
-				{% if page.title %}<h1 class="jbf-work-title-heading">{{ page.title }}</h1>{% endif %}
+		<section class="main">
+			<div class="page-header">
+				{% if page.parent %}<div class="parent">{{ page.parent }}</div>{% endif %}
+				{% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
 			</div>
-			<article class="jbf-work-content jbf-container">
+			<article class="content">
 
 				{{ content }}
 
-				{% capture page_to_look_for %}{{page.name| split: "." | first}}{% endcapture %}
-				{% for p in nav-paginate-list %}
-				{% if p.file == page_to_look_for %}
+				{% comment %}
+				{% assign items = web-nav-tree %}
+				{% capture page_url_last %}{{ page.url | split: "/" | last }}{% endcapture %}
+				{% for item in items %}
+				{% if item.file == page_url_last %}
 				{% assign next_i = forloop.index0 | plus: 1 %}
 				{% assign prev_i = forloop.index0 | minus: 1 %}
-				{% assign next = nav_paginate_list[next_i] %}
-				{% assign prev = nav_paginate_list[prev_i] %}
+				{{item.file}}<br />
+				Next: {{ items[next_i] }}<br />
+				Previous: {{ items[prev_i] }}<br /><br />
 				{% endif %}
 				{% endfor %}
+				{% endcomment %}
 
-				{% if prev_i >= 0 %}
-				<div class="jbl-prev" title="Previous part" rel="prev">
-					<a href="{{work-url-contents-directory}}/{{prev.file}}">← {{prev.label}}</a>
+				{% if page.previous %}
+				<div class="prev" title="Previous part" rel="prev">
+					<a href="{{site.baseurl}}{{page.previous}}">← Previous part</a>
 				</div>{% else %}
 				{% endif %}
-				{% if next %}
-				<div class="jbl-next" title="Next part" rel="next">
-					<a href="{{work-url-contents-directory}}/{{next.file}}">{{next.label}} →</a>
+				{% if page.next %}
+				<div class="next" title="Next part" rel="next">
+					<a href="{{site.baseurl}}{{page.next}}">Next part →</a>
 				</div>{% else %}
 				{% endif %}
 			</article>

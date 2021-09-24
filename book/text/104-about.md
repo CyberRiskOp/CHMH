@@ -5,7 +5,7 @@ type: about
 ---
 
 {% include metadata %}
-
+<img src="{{site.baseurl}}/images/image-cover.jpg" alt="" style="width:750px;height:auto;">
 ## Cite this book
 {{creators-line}}. {{work.date|date: '%Y'}}{% if title %}. <i>{{title}}</i>{% endif %}{% if publisher %}. {{publisher.name}}{% endif %}{% if isbn %}. ISBN: {{isbn}}{% endif %}{% if issn %}. ISSN: {{issn}}{% endif %}{% if doi %}. DOI: {{doi}}{% endif %}{% if pid %}. {{pid}}{% endif %}
 

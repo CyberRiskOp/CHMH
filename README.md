@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e82a8da-f2dd-471e-a835-5454343a3944/deploy-status)](https://app.netlify.com/sites/cybersecurity-hiring-manager-handbook/deploys)
 <h1 align="center">jekyll-book-framework</h1> <br>
 <!--<p align="center">
     <img alt="jekyll-book-framework logo" title="jekyll-book-framework logo" src="docs/logo-jekyll-book-framework.png" width="300">
@@ -54,17 +55,19 @@ To get an idea, you can see the [demo of this project](https://michaelravedoni.g
 
 ## Usage
 
-### Download
-Download the project using git:
+**Clone** the project using git:
 
 ```bash
 git clone https://github.com/michaelravedoni/jekyll-book-framework.git
 cd jekyll-book-framework
 ```
 
-Or, manually :
-
-[Download](https://github.com/michaelravedoni/jekyll-book-framework/archive/master.zip) the project and unzip it.
+Or, **download** manually : [Download](https://github.com/michaelravedoni/jekyll-book-framework/archive/master.zip) the project and unzip it. Once done:
+1. Rename the directory with the name you want. For example: `my-book` (`JEKYLL-BOOK-NAME` in the following steps).
+2. Edit the configuration file (`_data/meta.yml`) as needed.
+3. Edit the stylesheet variables located in `book/styles`.
+4. Edit the book/work content files located in `book/text`.
+5. Install the dependencies, start and deploy the project (see below).
 
 Then rename the folder with the name you want. For example: `my-book` (`JEKYLL-BOOK-NAME` in the following steps).
 
@@ -211,6 +214,10 @@ You will find the releases history in the [release](https://github.com/michaelra
 - i18n
 - auto pdf genarator
 - epub, mobi and markdown export
+- create different work layouts
+- define a workflow (version, edition, translation)
+- create template for git issues (Github and GitLab)
+- create deploy command for GitLab
 
 ## Authors and acknowledgment
 

@@ -2,30 +2,51 @@
 title: "Introduction"
 type: chapter
 ---
+<img src="{{site.baseurl}}/images/image-cover.jpg" alt="" style="width:750px;height:auto;">
+Assembling, leading, and managing a team of people to achieve cybersecurity (and information security) program goals is difficult, even under the best of circumstances. In my experience, the circumstances are rarely “best”.
+Sure, hiring managers across all disciplines search endlessly to find and retain the best people. They have to equip, train, and support them every day. And figure out how to nurture each person according to their unique abilities.
+But, as you know, there are unique hiring challenges facing cybersecurity managers. Because cyber is a dynamic risk, our work is done in a continuously evolving problem space. So we need an endless training budget and time away from the daily grind to actually learn. And then do.
+And, the pace of technological change seems to quicken every day. So even if cyber criminals were less innovative, and regulators less demanding, there’s still so much to learn all the time.
 
-Itaque tum Scaevola cum in eam ipsam mentionem incidisset, exposuit nobis sermonem Laeli de amicitia habitum ab illo secum et cum altero genero, C. Fannio Marci filio, paucis diebus post mortem Africani. Eius disputationis sententias memoriae mandavi, quas hoc libro exposui arbitratu meo; quasi enim ipsos induxi loquentes, ne 'inquam' et 'inquit' saepius interponeretur, atque ut tamquam a praesentibus coram haberi sermo videretur.
+Because our discipline is relatively new, we lack highly structured and clearly defined career paths. And an “entry level job” isn’t really entry level because even the newest of us have to understand how various network protocols and systems work before you can secure them. And our Human Resource departments don’t really know how to support us. 
+Despite all this, there are plenty of eager candidates, both qualified and unqualified, who are searching for the right job. But where to find them? How to get them on your team? How to keep them around and productive?
+So, yeah, we need a *Cybersecurity Hiring Manager Handbook*.
+But this handbook isn’t just for hiring. As you’ll see, it covers the entire “lifecycle” of a teammate:
+  
+  - Setting the **foundation** for team building
+  - **Preparing** to hire the next person
+  - **Executing** your plan to identify, screen, and negotiate compensation for a great candidate
+  - **Retaining** your team members
+  - Gracefully handling the transition of a team member who is **departing** for greener pastures                                                                
+  
+We want you to be the employer for people who could work anywhere, but choose to work on your team because of the “unique and attractive” ways you do things.
+But our vision for you is even bigger than mastering the full lifecycle of a team member. By building the team of your dreams, you can not only achieve your program goals, you can set yourself up to be an influencer with your senior decision makers.
+What does this mean?
 
-Quare hoc quidem praeceptum, cuiuscumque est {% cite arribe_conception_2014 %}, ad tollendam amicitiam valet; illud potius praecipiendum fuit, ut eam diligentiam adhiberemus in amicitiis comparandis, ut ne quando amare inciperemus eum, quem aliquando odisse possemus. Quin etiam si minus felices in diligendo fuissemus, ferendum id Scipio potius quam inimicitiarum tempus cogitandum putabat.
-Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse doctrinis fuisset instructior est enim, quod tibi ita videri necesse est, non satis politus iis artibus, quas qui tenent, eruditi appellantur aut ne deterruisset alios a studiis. quamquam te quidem video minime esse deterritum.
+You become an influencer when the other senior decision makers and top influencers of your organization seek you out before they make major decisions that have cybersecurity implications. Instead of finding out about the newest system just prior to rollout into production, the people who first thought up that system start talking with you about it before they submit their business case to get it approved for development.
+And you become an influencer when your senior decision makers stop seeing your program as an unavoidable cost of doing business. And instead, they see you as sales enablement or reputation enhancement.
 
-## Factis mihi censuerim petenda
+How do you make that massive shift?
+By having a team that “works in your program” so you can “work on your program.”
+This means delegating the actual work of your program to your team members and supporting them. When you succeed at this, you have time to spend with the managers of other departments and your most senior decision makers. To get to know them and show them the business value your program can bring to their goals. Like increased sales, larger revenue, more profit, entry into a new industry vertical, or reduced cost to please and support your customers.
+As an influencer, your goal is to deliver real business value and increase internal cybersecurity policy compliance and general cooperation between your department and the other departments.
+But that’s very difficult (impossible?) to do when you are “in the trenches” all day, every day.
+We also want to have a positive, long-lasting impact on our cybersecurity community so we’re releasing the *Handbook* as an open source project under Creative Commons “Attribution 4.0 International” license.
 
-Ergo ego senator inimicus, si ita vultis, homini, amicus esse, sicut semper fui, rei publicae debeo. Quid? si ipsas inimicitias, depono rei publicae causa, quis me tandem iure reprehendet, praesertim cum ego omnium meorum consiliorum atque factorum exempla semper ex summorum hominum consiliis atque factis mihi censuerim petenda.
-Homines enim eruditos et sobrios ut infaustos et inutiles vitant, eo quoque accedente quod et nomenclatores adsueti haec et talia venditare, mercede accepta lucris quosdam et prandiis inserunt subditicios ignobiles et obscuros.
-Et quia Montius inter dilancinantium manus spiritum efflaturus Epigonum et Eusebium nec professionem nec dignitatem ostendens aliquotiens increpabat, qui sint hi magna quaerebatur industria, et nequid intepesceret, Epigonus e Lycia philosophus ducitur et Eusebius ab Emissa Pittacas cognomento, concitatus orator, cum quaestor non hos sed tribunos fabricarum insimulasset promittentes armorum si novas res agitari conperissent.
-{:#example-id}
+And, to keep the *Handbook* relevant as time goes by, as we’re going to accept your enhancements via our repo on GitHub.
+Everyone is welcome to use this handbook, including job hunters. But our primary audience is line supervisors who have to build teams to meet cybersecurity program goals. (Note: We define a “line supervisor” as any member of the management team who has people reporting to them, at all levels.)
+This Handbook could also be useful for managers of consulting or security services teams, although we realize the business context of these teams is different.
+The secondary audience for this *Handbook* is anyone who helps supervisors build teams, like our friends in Human Resources and our team members who know where to find amazing new candidates and help them succeed once they become teammates.
+Finally, we wanted to make this *Handbook* useful to 90% of the hiring managers, 90% of the time. So here are two key assumptions:
+  
+  - You are hiring in the United States, Canada, or similar countries.
+  - The Ideals we espouse in the Handbook are a good fit for your specific situation. 
 
-Sed fruatur sane hoc solacio atque hanc insignem ignominiam, quoniam uni praeter se inusta sit, putet esse leviorem, dum modo, cuius exemplo se consolatur, eius exitum expectet, praesertim cum in Albucio nec Pisonis libidines nec audacia Gabini fuerit ac tamen hac una plaga conciderit, ignominia senatus.
+However, we recognize that there is so much variability in the situations cybersecurity hiring managers find themselves working in (e.g., industry, mission, organization size, etc.) that we may not be able to consistently hit that target.
+So tell us when we don’t hit the mark so we can do better with the next release.
 
-Fuerit toto in consulatu sine provincia, cui fuerit, antequam designatus est, decreta provincia. Sortietur an non? Nam et non sortiri absurdum est, et, quod sortitus sis, non habere. Proficiscetur paludatus? Quo? Quo pervenire ante certam diem non licebit. ianuario, Februario, provinciam non habebit; Kalendis ei denique Martiis nascetur repente provincia[^book-repo].
+**Now go build the team of your dreams, so you can start working “on” your program instead of “in” your program, and become the influencer you’ve always wanted to be!**
 
->Qui cum venisset ob haec festinatis itineribus Antiochiam, praestrictis palatii ianuis, contempto Caesare, quem videri decuerat, ad praetorium cum pompa sollemni perrexit.  
-{% cite renou-attwell_i_2017 %}
-
-Ciliciam vero, quae Cydno amni exultat, Tarsus nobilitat, urbs perspicabilis hanc condidisse Perseus memoratur, Iovis filius et Danaes, vel certe ex Aethiopia profectus Sandan quidam nomine vir _opulentus_ et nobilis et Anazarbus auctoris vocabulum referens, et Mopsuestia vatis illius domicilium Mopsi, quem a conmilitio Argonautarum cum aureo vellere direpto {% cite arribe_conception_2014 -l 206 %} redirent, errore abstractum delatumque ad Africae litus mors repentina consumpsit, et ex eo cespite punico tecti manes eius heroici dolorum varietati medentur plerumque sospitales.
-
-Raptim igitur properantes ut motus sui rumores celeritate nimia praevenirent, vigore corporum ac levitate confisi per flexuosas semitas ad summitates collium tardius evadebant {% cite attwell_i_2017 -L chapter -l 1 %}. et cum superatis difficultatibus arduis ad supercilia venissent fluvii Melanis alti et verticosi, qui pro muro tuetur accolas circumfusus, augente nocte adulta terrorem quievere paulisper lucem opperientes. arbitrabantur enim nullo inpediente transgressi inopino adcursu adposita[^printed-version] quaeque vastare, sed in cassum labores pertulere gravissimos.
-
-
-[^book-repo]: A public Git repository allows anyone to contribute: {{site.repo_url}}.
-[^printed-version]: A printable PDF version of this book is available in the appendix.
+Kip Boyle  
+Seattle, WA  
+September 2021

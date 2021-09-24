@@ -127,8 +127,8 @@ $baseurl: "{{ site.baseurl }}";
 
 /* variable used for the book */
 :root {
-  --margin-top: 4.5rem;
-  --margin-bottom: 4.5rem;
+  --margin-top: 73px;
+  --margin-bottom: 73px;
 	--color-primary: teal;
 	--color-secondary: indianred;
 	--color-bg-chapter: whitesmoke;
@@ -136,16 +136,12 @@ $baseurl: "{{ site.baseurl }}";
 }
 
 @page {
-  /* Change only if you want to override the meta.yml variables.
-  Change paged-view.format.width and .height in meta.yml.
-  Otherwise, uncomment this line:
-  */
-  /* size: 148mm 210mm; */
+  size: A5 portrait;
 
 	font-family: "Fira Sans", sans-serif;
   font-weight: 400 ;
   font-size: var(--font-size-base);
-	line-height: calc(var(--font-size-base) * 1.618);
+	line-height: 27px;
 }
 
 @page:blank {

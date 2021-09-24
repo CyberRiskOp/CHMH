@@ -6,29 +6,29 @@
 
 project:
   # The name of the organisation or entity that owns this project
-  organisation: "The organisation"
+  organisation: "Cyber Risk Opportunities"
   # A live web address for the organisation
-  url: "http://organisation.com/"
+  url: "http://www.cyberriskopportunities.com/"
   # The default contact email address
-  email: "support@organisation.com"
+  email: "kip@cyberriskopportunities.com"
   # The name of the project of books in this folder.
-  name: "The organisation project name"
+  name: "Cybersecurity Hiring Manager Handbook"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "The organisation project description."
+  description: "A handbook for cybersecurity hiring managers."
   # The logo of the organisation, saved web-ready in /assets
   logo: "logo-publisher.png"
   # An image in /assets that stands for the project
   image: "project-image.jpg"
   # Credit line, by default in the footer, overidden in locales.yml
-  credit: "Built with [jekyll-book-framework](http://example.com)"
+  credit: "Built with [jekyll-book-framework](http://michaelravedoni.github.io/jekyll-book-framework)"
   # Primary language code for this project as a whole
   language: "en"
   # App bundle ID unique across all app stores
-  app-id: com.example.myapp
+  app-id: com.cyberriskopportunities.handbook
   # Version. You must change this with each app update
   version: "1.0.0"
   # Project's repository.
-  repository: https://github.com/michaelravedoni/jekyll-book-framework
+  repository: https://github.com/cyberriskop/CHMH
   repository_branch: master
 
 
@@ -45,28 +45,28 @@ work:
 # ------------------------------------------------------------------------------
 # Title & Description
 # ------------------------------------------------------------------------------
-  title               : "The great book title"      # e.g. The four seasons <Recording title proper (RDA 2.3.2)>
-  subtitle            : "and his book subtitle"   # e.g. the revenant <Recording other title information>
+  title               : "Cybersecurity Hiring Manager Handbook"      # e.g. The four seasons <Recording title proper (RDA 2.3.2)>
+  subtitle            : ""   # e.g. the revenant <Recording other title information>
   edition             : "First edition"   # e.g. First edition, Revised <Recording edition statement (RDA 2.5)>
-  status              : draft             # draft, submitted, reviewed, revised (new version), published
+  status              : draft             # draft, revised, published
   version             : v1.0.0
   description:
-    short             : The Book's short description. With no dorm and no dancing, Stallman's social universe imploded.
+    short             : A handbook for cybersecurity hiring managers.
     full: >-
-        The Book's long description. With no dorm and no dancing, Stallman's social universe imploded. Like an astronaut experiencing the aftereffects of zero-gravity, Stallman found that his ability to interact with nonhackers, especially female nonhackers, had atrophied significantly. After 16 weeks in the AI Lab, the self confidence he'd been quietly accumulating during his 4 years at Harvard was virtually gone.
+        Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
   publisher:                              # e.g. the publisher, imprint or brand name
-    name              : "The publisher name"
-    location          : "1200 Town, Earth, Galaxy"
-    url               : "http://example.com"
+    name              : "Cyber Risk Opportunities"
+    location          : "Seattle, Washington"
+    url               : "http://www.cyberriskopportunities.com"
     logo              : "logo-publisher.png"
-  date                : "2018-12-31"      # e.g. YYYY-MM-DD <Date of publication (RDA 2.8.6)/Date of Work (RDA 6.4))>
-  date_copyright      : "2018"            # e.g. YYYY <Copyright date (RDA 2.11)>
+  date                : "2021-9-17"      # e.g. YYYY-MM-DD <Date of publication (RDA 2.8.6)/Date of Work (RDA 6.4))>
+  date_copyright      : "2021"            # e.g. YYYY <Copyright date (RDA 2.11)>
   #place               : "London"         # e.g. London <Place of Origin of the Work (RDA 6.5)>
   #serie               : ""               # e.g. Infinite scroll <Series Statement Transcription (RDA 2.12)>
-  type                : "Book"            # Required. Article, Book, Course, Review, PublicationIssue, PublicationVolume
+  type                : "Handbook"       # e.g. Novel, Poetry, Memoir
   source              : ""                # e.g. parent ISBN or ISTC
   language            : "en"              # use ISO 639-1, 639-2, or 639-3 codes (in that order of preference)
   relation            : ""                # e.g. other edition ISBN <http://dublincore.org/documents/dcmi-terms/#terms-relation>
@@ -74,12 +74,12 @@ work:
                                           # <Coverage of the Content (RDA 7.3)>
   cover_image:
     image             : "image-cover.jpg"
-    creator           : "August Jernberg"
-    title             : "Die Besucher vor Rembrandts Nachtwache in Amsterdam"
-    date              : "1885"
-    text              : "The painting depicts a group of people in front of Rembrandt's famous painting <i>The Night Watch</i> at Treppenhuis, Holland. Exhibited at the Malmö Art Museum."
+    creator           : ""
+    title             : ""
+    date              : ""
+    text              : ""
     source            : "Wikimedia commons"
-    source_url        : "https://commons.wikimedia.org/wiki/File:August_Jernberg_-_Treppenhuis_-_Google_Art_Project.jpg"
+    source_url        : ""
     license           : "Public domain"
   identifiers:                            # e.g. <Identifier for the manifestation (RDA 2.15)>
     #isbn              : ""
@@ -91,56 +91,77 @@ work:
   isFamilyFriendly    : true
   genre               : ""
   funder              : ""
-  abstract            : "Abstract text. By the spring of 1985, Richard Stallman had settled on the GNU Project's first milestone-a Lisp-based free software version of Emacs. To meet this goal, however, he faced two challenges. First, he had to rebuild Emacs in a way that made it platform independent. Second, he had to rebuild the Emacs Commune in a similar fashion. Outside the classroom, Stallman pursued his studies with even more diligence, rushing off to fulfill his laboratory-assistant duties at Rockefeller University during the week and dodging the Vietnam protesters on his way to Saturday school at Columbia. It was there, while the rest of the Science Honors Program students sat around discussing their college choices, that Stallman finally took a moment to participate in the preclass bull session."
-  keywords            : "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
-  abstract_en         : "Abstract text in english. Almost a quarter century after its publication, Stallman still bristles when hearing Weizenbaum's computer description, discussing it in the present tense as if Weizenbaum himself was still in the room. He wants people to be just professionals, doing it for the money and wanting to get away from it and forget about it as soon as possible, Stallman says. Such statements, while reflective of the hacker ethic, also reflected the difficulty of translating the loose, informal nature of that ethic into the rigid, legal language of copyright. In writing the GNU Emacs License, Stallman had done more than close up the escape hatch that permitted proprietary offshoots. He had expressed the hacker ethic in a manner understandable to both lawyer and hacker alike."
-  keywords_en         : "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  abstract            : ""
+  keywords            : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  abstract_en         : ""
+  keywords_en         : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
 # ------------------------------------------------------------------------------
 # Contributors <Creator of Work (RDA 19.2)>
 # ------------------------------------------------------------------------------
   creators:
-    - firstName       : A. N.
-      lastName        : Author
-      affiliation     : Univerity of affiliation
-      email           : authorname@domain.com
-      twitter         : "@authorname"
+    - firstName       : Kip
+      lastName        : Boyle
+      affiliation     : Co-Creator
+      email           : kip@cyberriskopportunities.com
+      twitter         : "@KipBoyle"
       #orcid           : ""
       sameAs          :
-        - https://authorname.com/
-      bio             : "For all the agony it produced, adolescence would have a encouraging effect on Stallman's sense of individuality. At a time when most of his classmates were growing their hair out, Stallman preferred to keep his short. At a time when the whole teenage world was listening to rock and roll, Stallman preferred classical music."
-      url             : https://en.wikipedia.org/wiki/Rose_Valland
+        - https://linkedin.com/in/kipboyle
+      bio             : "Creator biography"
+      url             : https://www.cyberriskopportunities.com/ 
       pic             : contributors/author.svg
+    - firstName       : Marc
+      lastName        : Menninger
+      affiliation     : Co-Creator
+      email           : marc@marcmenninger.com
+      twitter         : "@MarcMenninger"
+      #orcid           : ""
+      sameAs          :
+        - https://www.linkedin.com/in/marcmenninger
+      bio             : "Creator biography"
+      url             : http://www.marcmenninger.com/
+      pic             : contributors/author.svg  
   contributors: # E.g. other contributors
-    - firstName       : Johny
-      lastName        : Luss
+    - firstName       : Chris
+      lastName        : Clai
       role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
-      affiliation     : Company of affiliation
-      email           : authorname@domain.com
-      twitter         : "@authorname"
+      affiliation     : Contributor
+      email           : chris@syntaxbearror.io
+      twitter         : "@chrisclai"
       #orcid           : ""
       sameAs          :
-        - https://authorname.com/
-      bio             : "Almost a quarter century after its publication, Stallman still bristles when hearing Weizenbaum's description, discussing it in the present tense as if Weizenbaum himself was still in the room. He wants people to be just professionals, doing it for the money and wanting to get away from it and forget about it as soon as possible."
-      url             : https://en.wikipedia.org/wiki/Rose_Valland
-      pic             : contributors/author.svg
-    - firstName       : Beky
-      lastName        : Baskerville
-      role            : Illustrator
-      affiliation     : Affiliation
-# ------------------------------------------------------------------------------
-# Subjects
-# ------------------------------------------------------------------------------
-  subjects:
-    - type: LCSH
-      name: Gold mines and mining
-      identifer: http://id.loc.gov/authorities/subjects/sh85055733
-    - type: LCSH
-      name: British Columbia
-      identifier: http://id.loc.gov/authorities/subjects/sh2010007531
+        - https://www.linkedin.com/in/christopherclai/
+      bio             : "Chris is a Senior Security Engineer with more than 20 years of experience in IT. As a member of the LGBTQ+ community who has faced adversity themselves in their career, Chris uses their privilege to break barriers that many minorities face in IT and guiding organizations toward better practices to build a stronger workforce and security posture."
+      url             : https://syntaxbearror.io/
+      pic             : contributors/Chris.svg
+    - firstName       : Sherry
+      lastName        : Peng
+      role            : Documentation        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      affiliation     : Contributor
+      email           : ppl_peng@yahoo.com
+      twitter         : ""
+      #orcid           : ""
+      sameAs          :
+        - https://www.linkedin.com/in/sherry-peng-professional/
+      bio             : "Sherry Peng is a legal, risk and security professional with emphasis in the telecommunication industry. She is passionate about connecting the right candidate to the right role to help them soar into their security career."
+      url             : https://www.linkedin.com/in/sherry-peng-professional/
+      pic             : contributors/author.svg  
+    - firstName       : Michael
+      lastName        : Mcpherson
+      role            : Repo Man        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      affiliation     : Contributor
+      email           : michael89mcpherson@gmail.com
+      twitter         : "@MrMiMc"
+      #orcid           : ""
+      sameAs          :
+        - https://michael89mcpherson.github.io/about-me/
+      bio             : "Michael is particularly interested in projects that solve cybersecurity problems using open source tools. If you think I can be helpful to you or would like to connect with me, please feel free to get in touch."
+      url             : https://michael89mcpherson.github.io/about-me/
+      pic             : contributors/Michael.svg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
-  rights: "© 2017 Publisher name" # e.g. a copyright statement
+  #rights: "© 2017 Publisher name" # e.g. a copyright statement
   disclaimers: "While every precaution has been taken in the preparation of this book, the publisher and authors assume no responsibility for errors or omissions, or for damages resulting from the use of the information contained."
   license:
     name: Creative Commons Attribution 4.0 International License
@@ -154,98 +175,108 @@ work:
 # Revision History
 # ------------------------------------------------------------------------------
   revision_history:
-    - date: 2018-01-01
+    - date: 2021-09-17
       summary: First edition
 # ------------------------------------------------------------------------------
 # Products
 # ------------------------------------------------------------------------------
   products: # Metadata for each product for this title (only use values that override parent metadata)
     web:
-      start-page: "0-6-foreword" # At which file should users start reading?
+      start-page: "00-introduction" # At which file should users start reading?
       #contents-page: "0-3-contents" # Your contents-page file, if you have one.
       about-page: "104-about" # Your about-page file, if you have one.
-      date: "2018-02-01" # YYYY-MM-DD e.g. publication date or last revision
-      distribution: "Digital online" # e.g. Print-on-demand, Digital download, Digital online
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
+      format: "Digital online" # e.g. Print-on-demand, Digital download, Digital online
       identifier: "" # e.g. ISBN or UUID
       image: "cover.jpg"
       nav: # For each menu item, include at least label and file. Optionally add id (for deep linking) and children.
-        - label: "Foreword"
-          file: "0-6-foreword"
-          id: "foreword"
-        - label: "Preface"
-          file: "0-7-preface"
-          id: "preface"
         - label: "Introduction"
           file: "00-introduction"
           id: "00-introduction"
-        - label: "Chapter 1"
+        - label: "Chapter 1: Hiring Manager Ideals"
           file: "01-00-chapter"
           id: "01-chapter-1"
+        - label: "Chapter 2: Foundation"
+          file: "02-00-chapter"
+          id: "02-chapter-2"
+        - label: "Chapter 3: Preparation"
+          file: "03-00-chapter"
+          id: "03-chapter-3"
           children:
-            - label: "Section 1"
-              file: "01-01-section-1"
-              id: "01-chapter-1-section-1"
-            - label: "Section 2"
-              file: "01-02-section-2"
-              id: "01-chapter-1-section-2"
+            - label: "Your team's culture and diversity"
+              file: "03-01-section-1"
+              id: "03-chapter-3-section-1"
+            - label: "Determine the role and title"
+              file: "03-02-section-2"
+              id: "03-chapter-3-section-2"
+            - label: "Define the salary range for the role"
+              file: "03-03-section-3"
+              id: "03-chapter-3-section-3"
+            - label: "Write a compelling job description"
+              file: "03-04-section-4"
+              id: "03-chapter-3-section-4"
+            - label: "Example job descriptions for common jobs in cyber"
+              file: "03-05-section-5"
+              id: "03-chapter-3-section-5"      
+        - label: "Chapter 4: Execution"
+          file: "04-00-chapter"
+          id: "04-chapter-4"
+          children:
+            - label: "Post the job and attract the right candidates"
+              file: "04-01-section-1"
+              id: "04-chapter-4-section-1"
+            - label: "Working with recruiters"
+              file: "04-02-section-2"
+              id: "04-chapter-4-section-2"
+            - label: "Review the resumes"
+              file: "04-03-section-3"
+              id: "04-chapter-4-section-3"
+            - label: "Conduct the interviews"
+              file: "04-04-section-4"
+              id: "04-chapter-4-section-4"
+            - label: "The selection process"
+              file: "04-05-section-5"
+              id: "04-chapter-4-section-5"    
+            - label: "Make the offer"
+              file: "04-06-section-6"
+              id: "04-chapter-4-section-6"   
+        - label: "Chapter 5: Retention"
+          file: "05-00-chapter"
+          id: "05-chapter-5"
+          children:
+            - label: "Why retention is important"
+              file: "05-01-section-1"
+              id: "05-chapter-5-section-1"
+            - label: "How to retain team members"
+              file: "05-02-section-2"
+              id: "05-chapter-5-section-2"
+            - label: "Show your new hire that you care"
+              file: "05-03-section-3"
+              id: "05-chapter-5-section-3"
+            - label: "Build a high-functioning cybersecurity team"
+              file: "05-04-section-4"
+              id: "05-chapter-5-section-4"
+        - label: "Chapter 6: Departure"
+          file: "06-00-chapter"
+          id: "06-chapter-6"
+          children:
+            - label: "Letting go of poor performers"
+              file: "06-01-section-1"
+              id: "06-chapter-6-section-1"
+            - label: "Offboarding"
+              file: "06-02-section-2"
+              id: "06-chapter-6-section-2"
         - label: "Conclusion"
-          file: "05-conclusion"
+          file: "07-conclusion"
           id: "conclusion"
-        - label: "Appendix"
-          file: "06-00-appendix"
-          id: "appendix"
-          children:
-            - label: "Appendix 1"
-              file: "06-01-appendix-1"
-              id: "appendix-1"
-        - label: "Glossary"
-          file: "100-glossary"
-          id: "glossary"
-        - label: "Bibliography"
-          file: "102-bibliography"
-          id: "glossary"
-        - label: "Index"
-          file: "103-index"
-          id: "index"
     paged-view:
-      date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
-      distribution: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
-      format:
-        width: 148mm
-        height: 210mm
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
+      format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
       identifier: "" # e.g. ISBN or UUID
       image: "cover.jpg"
       layout: book
       files:
         cover: "0-0-cover"
-        front_matter:
-          - file: "0-1-halftitle"     # required. filename if the required file in the 'work/contents' (book/text) directory
-            id: "halftitle"           # optional (for layout). We recommend to put the same value as the 'type' value in the md file
-            class: "halftitle"        # optional (for layout).
-          - file: "0-1-titlepage"
-            id: "titlepage"
-            class: "titlepage"
-          - file: "0-2-colophon"
-            id: "colophon"
-            class: "colophon"
-          - file: "0-3-dedication"
-            id: "dedication"
-            class: "dedication"
-          - file: "0-4-epigraph"
-            id: "epigraph"
-            class: "epigraph"
-          - file: "0-5-toc"
-            id: "toc"
-            class: "toc"
-          - file: "0-6-foreword"
-            id: "foreword"
-            class: "foreword"
-          - file: "0-7-preface"
-            id: "preface"
-            class: "preface"
-          - file: "0-6-acknowledgements"
-            id: "acknowledgements"
-            class: "acknowledgements"
         body_matter:
           - file: "00-introduction"   # required. filename if the required file in the 'work/contents' (book/text) directory
             label: "Introduction"     # optional. label to display
@@ -306,48 +337,16 @@ work:
     # the pdf files manually. To go to the "/work/paged" page (e.g. "/book/paged"),
     # wait until the work is fully loaded, print ('ctrl-p') and export to pdf
     # from the dialog box.
-    # In the meantime, you can generate paged-view on the fly. To do this,
-    # change the variables in 'formats'.
     print-pdf:
-      distribution: "Print format" # e.g. Print-on-demand, Digital download, Digital online
-      # List formats you want to generat on the fly. The 'base' unit indicates
-      # the scale at which the format will be generated in relation to the
-      # browser (rem). The base unit is 16px or 1rem. Choose 'width' and 'height'
-      # from the <page-syze property> <https://www.w3.org/TR/css-page-3/#typedef-page-size-page-size>.
-      # Or add one on your need.
-      # A5: 148mm 210mm
-      # A4: 210mm 297mm
-      # A3: 297mm 420mm
-      # B5: 176mm 250mm
-      # B4: 250mm 353mm
-      # B5: 182mm 257mm
-      # B4: 257mm 364mm
-      # Pocket Book: 4.25in 6.88in
-      # Digest: 5.5in 8.5in
-      # US Trade: 6in 9in
-      # Royal: 6.13in 9.21in
-      # Comic Book: 6.625in 10.25in
-      # Crown Quarto: 7.44in 9.68in
-      # letter: 8.5in 11in (default)
-      # legal: 8.5in 14in
-      # ledger: 11in 17in
+      format: "Print format" # e.g. Print-on-demand, Digital download, Digital online
+      # Formats not yet implemented
       formats:
         - name: A5
-          width: 148mm
-          height: 210mm
-          base: 16px
-        - name: A4
-          width: 210mm
-          height: 297mm
-          base: 18px
-        - name: US Trade
           width: 6in
           height: 9in
-          base: 16px
-        - name: Pocket Book
-          width: 4.25in
-          height: 6.88in
-          base: 12px
+        - name: A4
+          width: 148mm
+          height: 210mm
       generated:
         - name: "A5"
           format: "a5"
@@ -355,11 +354,11 @@ work:
           size_in: "6in 9in"
           size_mm: "152mm 228mm"
           color: "Color"
-          date: 2018-01-03
-          url: "/output/book-a5-20180103.pdf" # /output/work-format-yyyymmdd.pdf
+          date: 2021-09-17
+          url: "/output/book-a5-20210917.pdf" # /output/work-format-yyyymmdd.pdf
     epub:
-      date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
-      distribution: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
+      date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
+      format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
       #identifier: "9780000000000" # e.g. ISBN or UUID
       image: "cover.jpg"
       start-page: "0-3-contents"
@@ -397,26 +396,26 @@ work:
           size_in: 6in 9in
           size_mm: 152mm 228mm
           color: B&W
-          provider: Lulu
-          url: https://example.com
-          price: 20$
+          provider: n-a
+          url: https://cyberriskop.github.io/CHMH
+          price: 0$
         - name: Paperback
           format: A5
           size: 14.8x21cm
           size_in: 5.83in 8.27in
           size_mm: 148mm 210mm
           color: B&W
-          provider: Lulu
-          url: https://example.com
-          price: 10$
+          provider: n-a
+          url: https://cyberriskop.github.io/CHMH
+          price: 0$
   translations: # Inside translations, include the same structure as in 'works'. Include only items that override the parent work's equivalents.
     - directory: "fr"
       contents_directory  : "/text" # Your contents directory, if you have one. Begin with a '/' or empty ''.
       language: "fr"
-      title: "Titre du livre"
-      subtitle: "Sous-titre du livre"
+      title: ""
+      subtitle: ""
       description:
-        short: "Description du livre"
+        short: ""
       products:
         web:
           start-page: "00-introduction" # At which file should users start reading?
@@ -439,8 +438,8 @@ work:
               file: "05-conclusion"
               id: "conclusion"
         paged-view:
-          date: "2016-05-07" # YYYY-MM-DD e.g. publication date or last revision
-          distribution: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
+          date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
+          format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
           layout: book
           files:
             cover: "0-0-cover"
