@@ -1,6 +1,6 @@
-// Main styles
+// What is this?
 // -------------
-// This is the stylesheet for the jekyll-book-framework (see https://michaelravedoni.github.io/jekyll-book-framework/).
+// This is typography for the Electric Book Elements theme (see http://electricbook.works).
 // It is built with Sass. (See http://sass-lang.com, and http://jekyllrb.com/docs/assets for how Jekyll implements Sass.)
 // It sets defaults that can be overridden in each book's own stylesheets, where the variables here are duplicated.
 //
@@ -13,18 +13,6 @@
 // First, let's set character encoding. Don't change this.
 @charset "utf-8";
 
-
 // -------------
-// Import partials
+// Set variables
 // -------------
-
-//@import "mixins";
-//@import "normalize";
-//@import "pygments";
-@import "typography";
-//@import "code";
-//@import "tables";
-//@import "layout";
-//@import "main/layout.scss";
-//@import "main/nav.scss";
-//@import "main/home.scss";

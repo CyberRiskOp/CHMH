@@ -7,9 +7,8 @@ layout: html-view
 <section class="cover" id="cover" data-type="cover">
 		{% for page in site.pages %}
 			{% assign cover_name = paged-view-file-list.cover %}
-			{% capture cover_url %}{{work-url-nb-contents-directory}}/{{ cover_name | split: "." | first }}/{% endcapture %}
-			{% capture page_url %}{{page.url| split: "." | first}}/{% endcapture %}
-			{% if cover_url == page_url %}
+			{% capture cover_url %}{{work-url-contents-directory}}/{{ cover_name | split: "." | first }}/{% endcapture %}
+			{% if cover_url == page.url %}
 {{page.content|markdownify}}
 			{% endif %}
 		{% endfor %}
@@ -19,9 +18,8 @@ layout: html-view
 <section class="front-matter">
 		{% for page in site.pages %}
 			{% for file in paged-view-file-list.front_matter %}
-			{% capture file_url %}{{work-url-nb-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
-			{% capture page_url %}{{page.url| split: "." | first}}/{% endcapture %}
-			{% if file_url == page_url %}
+			{% capture file_url %}{{work-url-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
+			{% if file_url == page.url %}
 		<section class="{{file.class}}" id="{{file.id}}" data-type="{{page.type}}">
 {{page.content|markdownify}}
 		</section>
@@ -33,9 +31,8 @@ layout: html-view
 <!--body-matter-->
 	{% for page in site.pages %}
 		{% for file in paged-view-file-list.body_matter %}
-		{% capture file_url %}{{work-url-nb-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
-		{% capture page_url %}{{page.url| split: "." | first}}/{% endcapture %}
-		{% if file_url == page_url %}
+		{% capture file_url %}{{work-url-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
+		{% if file_url == page.url %}
 <section class="{{file.class}}" id="{{file.id}}" data-type="{{page.type}}">
 	<h1 class="{{file.class}} {% if file.level == 1 %}chapter-title{% endif %}" id="{{file.id}}">{{file.label}}</h1>
 {{page.content|markdownify}}
@@ -47,9 +44,8 @@ layout: html-view
 <!--back-matter-->
 	{% for page in site.pages %}
 		{% for file in paged-view-file-list.back_matter %}
-		{% capture file_url %}{{work-url-nb-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
-		{% capture page_url %}{{page.url| split: "." | first}}/{% endcapture %}
-		{% if file_url == page_url %}
+		{% capture file_url %}{{work-url-contents-directory}}/{{ file.file | split: "." | first }}/{% endcapture %}
+		{% if file_url == page.url %}
 <section class="{{file.class}}" id="{{file.id}}" data-type="{{page.type}}">
 {{page.content|markdownify}}
 </section>

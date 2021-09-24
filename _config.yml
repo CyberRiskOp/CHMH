@@ -1,6 +1,7 @@
 # Site
-# -----------------------
-url                 : ""
+
+title               : "Cybersecurity Hiring Manager Handbook"
+url                 : "https://cybersecurity-hiring-manager-handbook.netlify.app"
 google_analytics_key: ""
 google_site_verification: ""
 
@@ -9,6 +10,61 @@ google_site_verification: ""
 port                : 4000
 host                : 127.0.0.1
 show_dir_listing    : false
+
+# ----
+# Book
+
+bookTitle           : "Cybersecurity Hiring Manager Handbook" # Required
+shortTitle          : "Short book title"
+description         : "Book short description"
+creators:
+  - lastName        : lastName
+    firstName       : firstName
+    affiliation     : affiliation
+    email           : authorname@domain.com
+    twitter         : "@authorname"
+    sameAs          :
+      - https://authorname.com/
+  - lastName        : lastName 2
+    firstName       : firstName 2
+    creatorType     : Directeur
+    affiliation     : affiliation 2
+    email           : authorname2@domain.com
+    twitter         : "@authorname2"
+publisher           : Publisher
+cc                  : CC-BY # Choose a Creative Commons license (https://creativecommons.org/choose/)
+date                : 2021-09-17
+pdf                 : #"/doc/book.pdf" # If different from generated
+pod           : # Print-on-demand version
+markdownD           : #todo
+epub                : #todo
+mobi                : #todo
+isbn                : 9780030426599
+lang                : fr
+isFamilyFriendly    : true
+genre               :
+funder              :
+
+abstract_locale: "David se rappelait de ce programme mélangeant deux anciennes technologies. Il s’en souvenait très bien, cinq années de travail acharné pour réaliser un vieux rêve d’enfant un peu solitaire. Il voulait un ami et il avait trouvé en l’informatique la possibilité d’avoir cet ami. Un ami capable de réfléchir vite, exempt de sentiment. C’est lui aussi qui était à la base du dernier processeur, le sphéro. Un processeur ayant une architecture en forme de sphère et capable de traiter les informations à une vitesse jamais atteinte. Tous les ordinateurs en étaient équipés. Le créateur officiel, le Dr. Stewart Davis, n’était bien sûr pas au courant de la présence de Prélude dans son projet. Prélude avait simplement suggéré légèrement au Dr. En modifiant légèrement ses documents."
+keywords_locale: "édition, livre, chaîne d'édition, chaîne de publication, traitement de texte, logiciel de publication assistée par ordinateur, livre numérique"
+
+abstract: "Encouraging others to adopt the same licensing practices meant closing off the escape hatch that had allowed privately owned versions of Emacs to emerge. To close that escape hatch, Stallman and his free software colleagues came up with a solution: users would be free to modify GNU Emacs just so long as they published their modifications. In addition, the resulting works would also have carry the same GNU Emacs License.
+The word is a weighted term in the Stallman lexicon. In a pointed swipe at his parents, Stallman, to this day, refuses to acknowledge any home before Currier House, the dorm he lived in during his days at Harvard. He has also been known to describe leaving that home in tragicomic terms. Once, while describing his years at Harvard, Stallman said his only regret was getting kicked out. It wasn't until I asked Stallman what precipitated his ouster, that I realized I had walked into a classic Stallman setup line."
+keywords: "publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+
+status              : draft # draft, revised, published
+version             : v1.0
+versiondate         : 2021-09-17
+
+# -----
+# Book links
+
+aboutUrl            : /8-about/
+
+# -----
+# Logo and image
+
+logo                : assets/icon/favicon.png
 
 # Language
 # --------
@@ -19,7 +75,66 @@ show_dir_listing    : false
 # For the registry of tags:
 # http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 # Useful lookup tool: http://r12a.github.io/apps/subtags/
-language            : en
+language: en
+
+# Gem-based theme
+# ---------------
+# Are you importing a gem-based theme? By default we do not.
+# If you are, remove the # before `theme:` and enter your theme's gem name.
+# If you're using GitHub Pages, note that it may not support your theme.
+# theme: your-theme-gem-name-here
+
+# Custom-edition variable
+# -----------------------
+# Which edition are we creating? You can leave this as `default`.
+# This can be used to create different editions of a book using
+# Liquid control-flow tags, e.g. in includes, layouts and file-list
+edition: "default"
+
+# Canonical URL
+# -------------
+# To make absolute links work, e.g. in canonical links in <head>,
+# include the url where this site will live when it's live (production).
+# E.g. canonical-url: "http://example.com"
+canonical-url: "https://cybersecurity-hiring-manager-handbook.netlify.app"
+
+# Base URL
+# --------
+# If you're using GitHub Pages without a custom domain, make this
+# the name of your repo, e.g. /electric-book
+# It must start with a slash. Otherwise you can leave it blank. See:
+# http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/
+baseurl: ""
+
+# GitHub Pages repository
+# -----------------------
+# If you're publishing a website on GitHub Pages
+# and want to ensure you're using a compatible setup,
+# add username/repository here and uncomment/enable
+# gem 'github-pages', group: :jekyll_plugins
+# in this project's Gemfile.
+repository: ""
+
+# Navigation
+# ----------
+# Web navigation source: select either files or nav
+# files: navigation will be taken from the web files list in `meta.yml`
+# nav: navigation will be taken from the web nav tree in `meta.yml`.
+# nav is more powerful, and allows submenu nesting;
+# files is quicker, because you don't have to create nav yaml,
+# only a files list.
+nav-source: nav
+
+# -----
+# Metadata
+
+google_site_verification:
+schema:
+  type              : Book # Required
+
+# -----
+# Build
+
 locale              : fr
 encoding            : UTF-8
 timezone            : Etc/UTC
@@ -78,14 +193,9 @@ exclude:
   - rsync-ignore.txt
   - env.json
   - env-model.json
-  - gulpfile.js
-  - assets/css/turetcss/
+  - bin
 
-# Default page variables
-# ----------------------
-# Set default values here for all documents/pages in this publication.
-# (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
-# Store only site configurations here, and book metadata (title, author, ISBNs) in _data/meta.yml
+
 defaults:
   -
     scope:
