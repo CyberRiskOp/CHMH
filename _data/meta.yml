@@ -101,6 +101,7 @@ work:
   creators:
     - firstName       : Kip
       lastName        : Boyle
+      role            : vCIO
       affiliation     : Co-Creator
       email           : kip@cyberriskopportunities.com
       twitter         : "@KipBoyle"
@@ -112,6 +113,7 @@ work:
       pic             : contributors/author.svg
     - firstName       : Marc
       lastName        : Menninger
+      role            : Director of Cybersecurity
       affiliation     : Co-Creator
       email           : marc@marcmenninger.com
       twitter         : "@MarcMenninger"
@@ -124,7 +126,7 @@ work:
   contributors: # E.g. other contributors
     - firstName       : Chris
       lastName        : Clai
-      role            : Illustrator        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      role            : Sr. Security Engineer # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : chris@syntaxbearror.io
       twitter         : "@chrisclai"
@@ -136,7 +138,7 @@ work:
       pic             : contributors/Chris.svg
     - firstName       : Sherry
       lastName        : Peng
-      role            : Documentation        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      role            : Sr. Manager of Cyber Defense        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : ppl_peng@yahoo.com
       twitter         : ""
@@ -146,9 +148,21 @@ work:
       bio             : "Sherry Peng is a legal, risk and security professional with emphasis in the telecommunication industry. She is passionate about connecting the right candidate to the right role to help them soar into their security career."
       url             : https://www.linkedin.com/in/sherry-peng-professional/
       pic             : contributors/author.svg  
+    - firstName       : Eelco
+      lastName        : Stofbergan
+      role            : Cyber Security Manager # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      affiliation     : Contributor
+      email           : 
+      twitter         : "stof"
+      #orcid           : ""
+      sameAs          :
+        - https://www.linkedin.com/in/eelcostofbergen
+      bio             : "Eelco is a cybersecurity manager with 20+ years of experience in government and industry. He currently works at a global consulting firm and is a lecturer in Information Security Management. He previously held positions at a big4 audit firm and the Dutch National Cyber Security Center."
+      url             : https://www.linkedin.com/in/eelcostofbergen
+      pic             : contributors/author.svg
     - firstName       : Michael
       lastName        : Mcpherson
-      role            : Repo Man        # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      role            : System, Cloud and GRC Admin# e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : michael89mcpherson@gmail.com
       twitter         : "@MrMiMc"
