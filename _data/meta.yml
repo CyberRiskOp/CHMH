@@ -291,34 +291,6 @@ work:
       layout: book
       files:
         cover: "0-0-cover"
-        front_matter:
-          - file: "0-1-halftitle"     # required. filename if the required file in the 'work/contents' (book/text) directory
-            id: "halftitle"           # optional (for layout). We recommend to put the same value as the 'type' value in the md file
-            class: "halftitle"        # optional (for layout).
-          - file: "0-1-titlepage"
-            id: "titlepage"
-            class: "titlepage"
-          - file: "0-2-colophon"
-            id: "colophon"
-            class: "colophon"
-          - file: "0-3-dedication"
-            id: "dedication"
-            class: "dedication"
-          - file: "0-4-epigraph"
-            id: "epigraph"
-            class: "epigraph"
-          - file: "0-5-toc"
-            id: "toc"
-            class: "toc"
-          - file: "0-6-foreword"
-            id: "foreword"
-            class: "foreword"
-          - file: "0-7-preface"
-            id: "preface"
-            class: "preface"
-          - file: "0-6-acknowledgements"
-            id: "acknowledgements"
-            class: "acknowledgements"
         body_matter:
           - file: "00-introduction"   # required. filename if the required file in the 'work/contents' (book/text) directory
             label: "Introduction"     # optional. label to display
