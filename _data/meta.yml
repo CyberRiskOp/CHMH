@@ -101,8 +101,7 @@ work:
   creators:
     - firstName       : Kip
       lastName        : Boyle
-      role            : vCIO
-      affiliation     : Co-Creator
+      affiliation     : Co-Creator - vCIO
       email           : kip@cyberriskopportunities.com
       twitter         : "@KipBoyle"
       #orcid           : ""
@@ -113,8 +112,7 @@ work:
       pic             : contributors/author.svg
     - firstName       : Marc
       lastName        : Menninger
-      role            : Director of Cybersecurity
-      affiliation     : Co-Creator
+      affiliation     : Co-Creator - Director of Cybersecurity
       email           : marc@marcmenninger.com
       twitter         : "@MarcMenninger"
       #orcid           : ""
@@ -162,7 +160,7 @@ work:
       pic             : contributors/author.svg
     - firstName       : Michael
       lastName        : Mcpherson
-      role            : System, Cloud and GRC Admin# e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      role            : System, Cloud and GRC Admin # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
       affiliation     : Contributor
       email           : michael89mcpherson@gmail.com
       twitter         : "@MrMiMc"
