@@ -107,7 +107,7 @@ work:
       #orcid           : ""
       sameAs          :
         - https://linkedin.com/in/kipboyle
-      bio             : "Creator biography"
+      bio             : "Shows business leaders how to overcome cybersecurity hurdles so they can enjoy the rewards of a healthy, growing business"
       url             : https://www.cyberriskopportunities.com/ 
       pic             : contributors/author.svg
     - firstName       : Marc
@@ -118,8 +118,8 @@ work:
       #orcid           : ""
       sameAs          :
         - https://www.linkedin.com/in/marcmenninger
-      bio             : "Creator biography"
-      url             : http://www.marcmenninger.com/
+      bio             : "Marc Menninger is a security leader with 15+ years of practical enterprise security experience including strategy, policies, governance, technology, risk management, and team development."
+      url             : https://www.linkedin.com/in/marcmenninger/
       pic             : contributors/author.svg  
   contributors: # E.g. other contributors
     - firstName       : Chris
@@ -167,7 +167,7 @@ work:
       #orcid           : ""
       sameAs          :
         - https://michael89mcpherson.github.io/about-me/
-      bio             : "Michael is particularly interested in projects that solve cybersecurity problems using open source tools. If you think I can be helpful to you or would like to connect with me, please feel free to get in touch."
+      bio             : "Michael is a System, Cloud and GRC Admin, on the Cyber and Information Security path, recent RIT Cyber Security Graduate, lowering compliance and other costs using open source and free tools."
       url             : https://michael89mcpherson.github.io/about-me/
       pic             : contributors/Michael.svg
 # ------------------------------------------------------------------------------
