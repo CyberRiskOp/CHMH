@@ -2,7 +2,7 @@
 title: "Hiring Manager Ideals"
 type: chapter
 ---
-Just as we create cybersecurity systems according to Design and Engineering Principles, the *Handbook* authors believed we should offer something similar to our audience of practitioners.
+Just as we create cyber-security systems according to Design and Engineering Principles, the *Handbook* authors believed we should offer something similar to our audience of practitioners.
 
 However, we realized that this work is too people-intensive to expect Principles to be practical. So, instead, we are offering a set of “Ideals”. 
 
