@@ -1,7 +1,7 @@
 ---
 title: "Working with Recruiters"
 type: section
-parent: Chapter 4: Execution
+parent: Chapter 4: Implementation
 ---
 Working with Recruiters
 =======================

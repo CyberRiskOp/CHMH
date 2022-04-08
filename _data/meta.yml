@@ -53,14 +53,14 @@ work:
   description:
     short             : A handbook for cybersecurity hiring managers.
     full: >-
-        Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.
+        A handbook for cybersecurity hiring managers.
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
   publisher:                              # e.g. the publisher, imprint or brand name
     name              : "Cyber Risk Opportunities"
     location          : "Seattle, Washington"
-    url               : "http://www.cyberriskopportunities.com"
+    url               : "http://www.cr-map.com"
     logo              : "logo-publisher.png"
   date                : "2021-9-17"      # e.g. YYYY-MM-DD <Date of publication (RDA 2.8.6)/Date of Work (RDA 6.4))>
   date_copyright      : "2021"            # e.g. YYYY <Copyright date (RDA 2.11)>
@@ -92,16 +92,16 @@ work:
   genre               : ""
   funder              : ""
   abstract            : ""
-  keywords            : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  keywords            : "cybersecurity, hiring, manager, handbook, ebook"
   abstract_en         : ""
-  keywords_en         : "cybersecurity, hiring, manager, handbook, publishing, book, publishing chain, word processor, desktop publishin software, ebook"
+  keywords_en         : "cybersecurity, hiring, manager, handbook, ebook"
 # ------------------------------------------------------------------------------
 # Contributors <Creator of Work (RDA 19.2)>
 # ------------------------------------------------------------------------------
   creators:
     - firstName       : Kip
       lastName        : Boyle
-      affiliation     : Co-Creator - vCIO
+      affiliation     : Co-Creator - vCISO
       email           : kip@cyberriskopportunities.com
       twitter         : "@KipBoyle"
       #orcid           : ""
@@ -120,8 +120,20 @@ work:
         - https://www.linkedin.com/in/marcmenninger
       bio             : "Marc Menninger is a security leader with 15+ years of practical enterprise security experience including strategy, policies, governance, technology, risk management, and team development."
       url             : https://www.linkedin.com/in/marcmenninger/
-      pic             : contributors/author.svg  
+      pic             : contributors/author.svg
   contributors: # E.g. other contributors
+    - firstName       : Naomi
+      lastName        : Buckwalter
+      role            : CISO # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      affiliation     : Contributor
+      email           : nbuckwalt@gmail.com
+      twitter         : "@ineedmorecyber"
+      #orcid           : ""
+      sameAs          :
+        - https://www.linkedin.com/in/christopherclai/
+      bio             : "Chris is a Senior Security Engineer with more than 20 years of experience in IT. As a member of the LGBTQ+ community who has faced adversity themselves in their career, Chris uses their privilege to break barriers that many minorities face in IT and guiding organizations toward better practices to build a stronger workforce and security posture."
+      url             : https://syntaxbearror.io/
+      pic             : contributors/author.svg
     - firstName       : Chris
       lastName        : Clai
       role            : Sr. Security Engineer # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
