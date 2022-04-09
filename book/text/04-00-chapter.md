@@ -1,5 +1,5 @@
 ---
-title: "Implementation"
+title: "Selection"
 type: chapter
 ---
 **Ideals**

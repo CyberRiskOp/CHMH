@@ -22,7 +22,7 @@ But this handbook isn’t just for hiring. As you’ll see, it covers the entire
   
   - Setting the **foundation** for team building
   - **Preparing** to hire the next person
-  - **Implementing** your plan to identify, screen, and negotiate compensation for a great candidate
+  - **Selection** to identify, screen, and negotiate compensation for a great candidate
   - **Retaining** your team members
   - Gracefully handling the transition of a team member who is **departing** for greener pastures                                                                
   

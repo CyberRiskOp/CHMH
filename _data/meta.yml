@@ -258,7 +258,7 @@ work:
             - label: "Conduct the interviews"
               file: "04-04-section-4"
               id: "04-chapter-4-section-4"
-            - label: "The selection process"
+            - label: "The Selection process"
               file: "04-05-section-5"
               id: "04-chapter-4-section-5"    
             - label: "Make the offer"

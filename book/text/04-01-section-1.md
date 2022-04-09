@@ -1,7 +1,7 @@
 ---
 title: "Post the job and attract the right candidates"
 type: section
-parent: Chapter 4: Implementation
+parent: Chapter 4: Selection
 ---
 Post the job and attract the right candidates 
 =============================================
