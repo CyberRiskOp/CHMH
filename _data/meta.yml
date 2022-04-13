@@ -278,9 +278,12 @@ work:
             - label: "Offboarding"
               file: "06-02-section-2"
               id: "06-chapter-6-section-2"
+        - label: "Chapter 7: Influence"
+          file: "07-00-chapter"
+          id: "07-chapter-7"
         - label: "Conclusion"
-          file: "07-conclusion"
-          id: "conclusion"
+          file: "08-conclusion"
+          id: "conclusion"  
     paged-view:
       date: "2021-09-17" # YYYY-MM-DD e.g. publication date or last revision
       format: "Digital download" # e.g. Print-on-demand, Digital download, Digital online
