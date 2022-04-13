@@ -1,7 +1,7 @@
 ---
 title: "Review The Resumes"
 type: section
-parent: Chapter 4: Execution
+parent: Chapter 4: Selection
 ---
 Review The Resumes
 ==================

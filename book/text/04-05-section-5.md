@@ -1,9 +1,9 @@
 ---
-title: "The selection process"
+title: "The Selection process"
 type: section
-parent: Chapter 4: Execution
+parent: Chapter 4: Selection
 ---
-The selection process
+The Selection process
 =====================
 
 **Rough outline for this section--please contribute**

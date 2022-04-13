@@ -10,7 +10,7 @@ You should operate according to these Ideals as much as you practically can. But
 
 We’ve kept these Ideals broad in description because there is so much variability from organization to organization. 
 
-Finally, we don’t expect that everyone will be able to uphold every Ideal every time. Rather, like us, we recognize you will strive to operate Ideally as much as possible. In many cases, we describe less-than-ideal practices in this *Handbook*, but we call ourselves out when we do and challenge you to do better.
+Finally, we don’t expect that everyone will be able to uphold every Ideal every time. Rather, like us, we recognize you will strive to operate ideally as much as possible. In many cases, we describe less-than-ideal practices in this *Handbook*, but we call ourselves out when we do and challenge you to do better.
 
 **Foundation**
 
@@ -26,7 +26,7 @@ Finally, we don’t expect that everyone will be able to uphold every Ideal ever
   - Widen your talent pool by growing your own talent and finding talented people that you’ve previously overlooked.
   - Define “diversity” among your team as using the differences people have in their life experiences to bring unique perspectives to creatively solving problems.
 
-**Execution**
+**Selection**
 
   - Hire in a way that builds relationships with candidates, even when the decision is not to hire someone.
   - Choose a person with a growth mindset, a great attitude, and strong aptitude for the work, over a person who is highly skilled but is only in it for the money or often treats others badly.
