@@ -32,6 +32,21 @@ Sometimes the issues we face relate to a particular team member who may be causi
 
 Developing and maintaining team culture is a continuous process of improvement, and not a single destination. Consistency and being open to change are key in ensuring your success around a healthy culture.
 
+Unconventional Talent is Everywhere
+-----------------------------------
+
+Just like how good information security programs don't just happen, good security teams don’t just happen. Good Information Security teams, like good Information Security programs, are intentionally built and nurtured. And teams, like programs, are forever evolving to fit the ever-changing needs of the business. And the best way to meet the evolving needs of the business is to build a team with a diverse set of talents. 
+
+The reason is simple. Multiple studies have shown that the most successful teams are also the most diverse. Teams of people with different backgrounds, including cultural, educational, and socio-economic backgrounds, are the most successful because their members think differently from one another. Diverse teams don’t exist in an echo chamber, where everyone thinks the same way. Diverse teams exist outside the echo chamber. They use their different ways of thinking in order to find the best solution to any given problem.
+
+If we want to increase diversity, we need to look for talent in unconventional places. It’s easy: see potential in everyone, everywhere you go. One thing that I like to do whenever I meet someone new, I ask myself, “How is this person smart?”. Notice, I didn’t say “IS this person smart?”. I said, “HOW is this person smart?” 
+
+I love this method of discovering unconventional talent. When I started doing this, I started seeing the world in an entirely different way. I started to see potential in everyone, even those with non-technical backgrounds or degrees. I gave them chances in interviews and projects. I hired some of them. And each time, my expectations were blown out of the water.
+
+After a while, I started to realize that diversity truly is a super power. My teams are successful because they are able to think differently from one another and challenge each other with different ways of approaching problems. 
+
+Unfortunately, the way we’ve hired in the past is NOT working. We’re hiring people just like ourselves - people who think and act like us, people who have the same technical backgrounds, and people with the same degrees. If we are serious about winning against cybercrime, we need to start hiring differently, and hire people that don’t think, act, or talk like us. 
+
 Expand the Talent Pool and Quality of Your Team Using Diversity, Equity, and Inclusion
 --------------------------------------------------------------------------------------
 
