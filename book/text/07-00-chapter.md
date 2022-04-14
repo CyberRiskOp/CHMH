@@ -2,7 +2,16 @@
 title: "Becoming an Influencer"
 type: chapter
 ---
-**Reflection: How important is security at your company?**
+As you build your strong team, challenge yourself with these three next steps:
+
+**First**, help your peers understand the value of information security. A good Security team enables the business to increase its competitive advantage. THIS is the business value of information security. Good security ENABLES the business. 
+
+**Second**, make security everyone’s responsibility, not just the security team’s. Remind people that security is a primary responsibility for every employee, no matter who they are or what their role is. Security is done best when EVERYONE makes security their job. 
+
+**Third**, get security a seat at the executive table. Security must be allowed to build a strategic roadmap and given resources in order to be successful. Include security in strategic planning and budget discussions. 
+
+Reflection: How important is security at your company?
+------------------------------------------------------
 
 The success of cybersecurity at any organization comes down to how well the company’s leaders understand the business value of security. In other words, a company that values cybersecurity:
 

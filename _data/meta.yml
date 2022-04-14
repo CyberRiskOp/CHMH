@@ -242,7 +242,7 @@ work:
             - label: "Example job descriptions for common jobs in cyber"
               file: "03-05-section-5"
               id: "03-chapter-3-section-5"      
-        - label: "Chapter 4: Execution"
+        - label: "Chapter 4: Selection"
           file: "04-00-chapter"
           id: "04-chapter-4"
           children:
