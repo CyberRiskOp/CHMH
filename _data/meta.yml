@@ -132,7 +132,7 @@ work:
       sameAs          :
         - https://www.linkedin.com/in/naomi-buckwalter/
       bio             : "Naomi Buckwalter is an information security executive with over 20 years of experience in IT and Security. She is the founder and executive director of the Cybersecurity Gatebreakers Foundation, an international nonprofit created to change the mindset of hiring managers and leaders in cybersecurity and focused on hiring, training, and mentoring the next generation of cybersecurity professionals. Naomi holds a double master’s degree in computer science and technology management from Villanova University and a BE in computer engineering from Stevens Institute of Technology."
-      url             : https://syntaxbearror.io/
+      url             : # https://syntaxbearror.io/
       pic             : contributors/author.svg
     - firstName       : Naomi
       lastName        : Buckwalter
