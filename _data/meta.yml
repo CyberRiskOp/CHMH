@@ -130,16 +130,16 @@ work:
       twitter         : "@ineedmorecyber"
       #orcid           : ""
       sameAs          :
-        - https://www.linkedin.com/in/christopherclai/
-      bio             : "Chris is a Senior Security Engineer with more than 20 years of experience in IT. As a member of the LGBTQ+ community who has faced adversity themselves in their career, Chris uses their privilege to break barriers that many minorities face in IT and guiding organizations toward better practices to build a stronger workforce and security posture."
+        - https://www.linkedin.com/in/naomi-buckwalter/
+      bio             : "Naomi Buckwalter is an information security executive with over 20 years of experience in IT and Security. She is the founder and executive director of the Cybersecurity Gatebreakers Foundation, an international nonprofit created to change the mindset of hiring managers and leaders in cybersecurity and focused on hiring, training, and mentoring the next generation of cybersecurity professionals. Naomi holds a double master’s degree in computer science and technology management from Villanova University and a BE in computer engineering from Stevens Institute of Technology."
       url             : https://syntaxbearror.io/
       pic             : contributors/author.svg
-    - firstName       : Chris
-      lastName        : Clai
-      role            : Sr. Security Engineer # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+    - firstName       : Naomi
+      lastName        : Buckwalter
+      role            : CISO
       affiliation     : Contributor
-      email           : chris@syntaxbearror.io
-      twitter         : "@chrisclai"
+      email           : nbuckwalt@gmail.com
+      twitter         : "@ineedmorecyber"
       #orcid           : ""
       sameAs          :
         - https://www.linkedin.com/in/christopherclai/
