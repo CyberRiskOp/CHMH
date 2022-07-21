@@ -153,11 +153,12 @@ If you are forced to choose between a candidate who has all the qualifications b
 
 First Who, then What: The first step in strategy and tactics is having the right people “on the bus"
 ------------------------------------------------------
-One of the key findings from Good to Great research (Jim Collins) is that before a great leader focuses on direction for the company the need to first focus on assembling the right team.
+One of the key findings from Good to Great research (Jim Collins) is that before a great leader focuses on direction for the company they need to first focus on assembling the right team.
 
 - First Get the right people on the bus, and in the right seat
 - Then figure out where to drive the bus
-- It’s not about JUST getting a great team, but this is the first step
+- It’s not JUST about getting a great team, but this is the first step
+
 https://www.youtube.com/watch?v=EzIzEJq7caI
 
 6 Core Competencies for Hiring a Great Team
