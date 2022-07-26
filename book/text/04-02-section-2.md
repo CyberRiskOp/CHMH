@@ -35,6 +35,7 @@ Most Hiring Managers are uncertain how to work with Recruiters. So how can you g
       
       A great Internal Recruiter can be a tremendous asset, even if you use a third-party recruiter. The internal team will usually assist with the hiring process, and they must be bought into working with your third party. If not, they can be a bottleneck (or an active blocker) and quickly spoil any relationship, whereas a good Internal Recruiter can help speed things up and save you time.
          
+         
   2. Third-Party Recruiters
 
       Create relationships with Cybersecurity Specialist Recruiters as soon as possible, as a great External Recruiter can add value even if you don't currently have an opening. Having a trusted source will be crucial to building your teams in the future.
@@ -49,8 +50,8 @@ Most Hiring Managers are uncertain how to work with Recruiters. So how can you g
 
       TIP: Looking at job postings similar to your role was always a common way to find them, but advertising is such a poor way to find candidates in this market that this is no longer valuable. Many of the best candidates do not respond to advertising, and so the best staffing companies aren't the ones with the most advertisements.
      
-How to Choose an External Recruiter 
-===================================
+How to Choose an External Recruiter
+-
 
 You’re going to build a relationship, and there is a lot of trust required, so don't ignore your intuition because recruiters work harder for people they don't want to let down. Still, it's essential to ensure that the facts back up your gut feeling, so here are a few questions that should help:
 
@@ -78,19 +79,20 @@ Everyday things often seen are:
 * Job Requirement changes
 
 How a good External Recruiter will prioritize the roles to fill for you
-=
+-
 
-1. Manager buy-in – You are the most important person on the client-side of this process. If you are not 100% bought into recruiting and willing/able to give the time to hire, the whole approach will fail. Here are a couple of real-world examples of success and failure:
+A. Manager buy-in – You are the most important person on the client-side of this process. If you are not 100% bought into recruiting and willing/able to give the time to hire, the whole approach will fail. Here are a couple of real-world examples of success and failure:
 
-    FAILURE: A Hiring Manager (HM) passes the intake call to his Talent Acquisition (TA) / Internal recruitment team. He said he was too busy for a call and that the TA already had all the answers. The External Recruiter should speak with the TA team if we have other questions. The External Recruiter advised the team that they would not be working on the role. Hiring is not a priority if you are too busy to take 30 minutes with the External Recruiter you are bringing in.
+   FAILURE: A Hiring Manager (HM) passes the intake call to his Talent Acquisition (TA) / Internal recruitment team. He said he was too busy for a call and that the TA already had all the answers. The External Recruiter should speak with the TA team if we have other questions. The External Recruiter advised the team that they would not be working on the role. Hiring is not a priority if you are too busy to take 30 minutes with the External Recruiter you are bringing in.
     
-    SUCCESS: The role was open for nine months with no success. The External Recruiter, HM and TA all got on a phone call and went through the tech details of the position. TA had already covered the hiring/interview process and compensation to save the manager's time. TA set up a standing weekly conference call for the HM, TA, and External Recruiter to run through a detailed resume and later interview feedback. HM still gave feedback to ensure they didn't lose momentum on new candidates. The client had the successful candidate's resume within a week, and the role was accepted within three weeks.
+   SUCCESS: The role was open for nine months with no success. The External Recruiter, HM and TA all got on a phone call and went through the tech details of the position. TA had already covered the hiring/interview process and compensation to save the manager's time. TA set up a standing weekly conference call for the HM, TA, and External Recruiter to run through a detailed resume and later interview feedback. HM still gave feedback to ensure they didn't lose momentum on new candidates. The client had the successful candidate's resume within a week, and the role was accepted within three weeks.
     
-2. Hiring Process – Firstly, be honest with yourself and your External Recruiter about your process. A good External Recruiter can manage a poor or slow process if they know about it. A quick way to downgrade the focus on your position is for the process to turn out not to be what was promised. A slow process loses candidates and means a recruiter may have to do 2 or 3 times the work on your position because of this.
+B. Hiring Process – Firstly, be honest with yourself and your External Recruiter about your process. A good External Recruiter can manage a poor or slow process if they know about it. A quick way to downgrade the focus on your position is for the process to turn out not to be what was promised. A slow process loses candidates and means a recruiter may have to do 2 or 3 times the work on your position because of this.
 
-3. Volume / Number of roles – If you hire multiple positions of the same type, your External Recruiter will have a higher chance of placing each candidate. Most External Recruiters are commission-based, so more placements mean more commission. Many commissions increase with more volume, like many sales roles. Commissions can be calculated monthly or quarterly, so getting a position filled within specific timeframes can be very important to the recruiter. As the Hiring Manager, you can utilize it to get more traction on your role.
+C. Volume / Number of roles – If you hire multiple positions of the same type, your External Recruiter will have a higher chance of placing each candidate. Most External Recruiters are commission-based, so more placements mean more commission. Many commissions increase with more volume, like many sales roles. Commissions can be calculated monthly or quarterly, so getting a position filled within specific timeframes can be very important to the recruiter. As the Hiring Manager, you can utilize it to get more traction on your role.
 
-4. Fees – Most companies want to spend as little as possible, and an external agency (third-party recruiter) wants their fee to be as high as possible, but remember, if the above three are all great, you will get a much better deal. Do remember that cybersecurity is mostly low volume recruitment, so don't expect to pay the same price that you pay a general recruiter who can fill multiple IT roles with your company. Also, realize that if you get a low fee, you may find your position getting a very low priority, which will not achieve your goal.
+D. Fees – Most companies want to spend as little as possible, and an external agency (third-party recruiter) wants their fee to be as high as possible, but remember, if the above three are all great, you will get a much better deal. Do remember that cybersecurity is mostly low volume recruitment, so don't expect to pay the same price that you pay a general recruiter who can fill multiple IT roles with your company. Also, realize that if you get a low fee, you may find your position getting a very low priority, which will not achieve your goal.
+  
   
   3. Define Recruiter Filters
 
@@ -122,6 +124,7 @@ How a good External Recruiter will prioritize the roles to fill for you
       - Do they have a home lab – if so, what is their current project?
       - Have they attended any conferences?
       - Are they involved in their local cybersecurity community?
+
 
   4. How to enable your External Recruiter
 
