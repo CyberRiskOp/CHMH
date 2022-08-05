@@ -182,6 +182,18 @@ work:
       bio             : "Michael is a System, Cloud and GRC Admin, on the Cyber and Information Security path, recent RIT Cyber Security Graduate, lowering compliance and other costs using open source and free tools."
       url             : https://michael89mcpherson.github.io/about-me/
       pic             : contributors/Michael.svg
+    - firstName       : Kris
+      lastName        : Rides
+      role            : Co-Founder & Chief Executive Officer, Tiro Security # e.g. Illustrator (https://www.loc.gov/marc/relators/relaterm.html)
+      affiliation     : Contributor
+      email           : kris.rides@tirosec.com
+      twitter         : "@KrisRides"
+      #orcid           : ""
+      sameAs          :
+        - https://www.linkedin.com/in/krisrides
+      bio             : "Kris is a Founder of Tiro Security, a company tat provides cyber security staffing and professional services. When it comes to cyber security staffing Kris is recognized as one of the most experienced specialists in the industry, he has spoken at some of the most prestigious conferences in our industry including DEFCON, RSA, BSidesLV and the ISC2 Congress."
+      url             : https://www.tirosec.com/
+      pic             : contributors/author.svg     
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
