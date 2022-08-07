@@ -191,7 +191,7 @@ work:
       #orcid           : ""
       sameAs          :
         - https://www.linkedin.com/in/krisrides
-      bio             : "Kris is a Founder of Tiro Security, a company tat provides cyber security staffing and professional services. When it comes to cyber security staffing Kris is recognized as one of the most experienced specialists in the industry, he has spoken at some of the most prestigious conferences in our industry including DEFCON, RSA, BSidesLV and the ISC2 Congress."
+      bio             : "Kris is a Founder of Tiro Security, a company that provides cyber security staffing and professional services. When it comes to cyber security staffing Kris is recognized as one of the most experienced specialists in the industry, he has spoken at some of the most prestigious conferences in our industry including DEFCON, RSA, BSidesLV and the ISC2 Congress."
       url             : https://www.tirosec.com/
       pic             : contributors/author.svg     
 # ------------------------------------------------------------------------------
