@@ -107,7 +107,7 @@ work:
       #orcid           : ""
       sameAs          :
         - https://linkedin.com/in/kipboyle
-      bio             : "Shows business leaders how to overcome cybersecurity hurdles so they can enjoy the rewards of a healthy, growing business"
+      bio             : "Shows business leaders how to overcome cybersecurity hurdles so they can enjoy the rewards of a healthy, growing business."
       url             : https://www.cyberriskopportunities.com/ 
       pic             : contributors/author.svg
     - firstName       : Marc
@@ -196,14 +196,14 @@ work:
       pic             : contributors/author.svg
     - firstName       : John
       lastName        : Hoyt
-      role            : (CISO)
+      role            : CISO
       affiliation     : Contributor
       email           : 
       twitter         : "@Pwdrkeg"
       #orcid           : ""
       sameAs          :
         - https://twitter.com/Pwdrkeg
-      bio             : "John Hoyt is the CISO for Clemson University. He has 20+ years working in IT and Security"
+      bio             : "John Hoyt is the CISO for Clemson University. He has 20+ years working in IT and Security."
       url             : 
       pic             : contributors/author.svg
 # ------------------------------------------------------------------------------
