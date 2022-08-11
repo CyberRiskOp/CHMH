@@ -193,7 +193,19 @@ work:
         - https://www.linkedin.com/in/krisrides
       bio             : "Kris is a Founder of Tiro Security, a company that provides cyber security staffing and professional services. When it comes to cyber security staffing Kris is recognized as one of the most experienced specialists in the industry, he has spoken at some of the most prestigious conferences in our industry including DEFCON, RSA, BSidesLV and the ISC2 Congress."
       url             : https://www.tirosec.com/
-      pic             : contributors/author.svg     
+      pic             : contributors/author.svg
+    - firstName       : John
+      lastName        : Hoyt
+      role            : (CISO)
+      affiliation     : Contributor
+      email           : 
+      twitter         : "@Pwdrkeg"
+      #orcid           : ""
+      sameAs          :
+        - https://twitter.com/Pwdrkeg
+      bio             : "John Hoyt is the CISO for Clemson University. He has 20+ years working in IT and Security"
+      url             : 
+      pic             : contributors/author.svg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
