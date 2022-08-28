@@ -58,6 +58,8 @@
 		<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 		<meta name="twitter:description" content="{{work.description.full | escape | strip_html}}">
 		<meta name="twitter:url" content="{{ site.canonical-url}}{{site.baseurl}}{{ page.url }}"/>
+		<meta name="twitter:image" content="https://cybersecurity-hiring-manager-handbook.netlify.app/images/logo-publisher.png" />
+
 		<!-- citation -->
 		<meta name="citation_title" content="{{work.title | escape | strip_html}}{% if work.subtitle %}:{{work.subtitle | escape | strip_html}}{% endif %}">
 		{% for creator in work.creators %}
