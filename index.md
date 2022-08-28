@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Cybersecurity Hiring Manager Handbook
 layout: home
 ---
 {% include metadata %}
