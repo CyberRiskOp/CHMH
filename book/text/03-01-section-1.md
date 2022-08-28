@@ -150,3 +150,36 @@ Even if you have followed everything detailed in this section, there may be situ
 If the above is just not possible, you may be forced to hire from the talent pool you have.
 
 If you are forced to choose between a candidate who has all the qualifications but wouldn’t fit the team versus someone who would fit the team but needs more education, choose the latter. Most every technical skill can be taught to a person with aptitude, but finding people with the right soft skills or mindset that positively contributes to our culture, can often only be curated. 
+
+First Who, then What: The first step in strategy and tactics is having the right people “on the bus"
+------------------------------------------------------
+One of the key findings from Good to Great research (Jim Collins) is that before a great leader focuses on direction for the team they need to first focus on assembling the right team.
+
+- First Get the right people on the bus, and in the right seat
+- Then figure out where to drive the bus
+- It’s not JUST about getting a great team, but this is the first step
+
+https://www.youtube.com/watch?v=EzIzEJq7caI
+
+6 Core Competencies for Hiring a Great Team
+------------------------------------------------------
+Accoring to Good to Great research by Jim Collins, the right people:
+
+1. Have a pre-disposition to share the core values of the enterprise
+- Create a culture that systematically reinforces those core values
+
+2. Understand that they don’t have a job, they have responsibilities
+- E.g. An Air traffic controller has a responsibility to keep the airplane safe.  Not just a job.
+
+3. Do what they say they’re going to do.
+- 100% hit rate at fulfilling commitments
+
+4. Don’t need to be tightly managed
+- Self-disciplined, self-motivated, self-managed, self-obsessively driven to make great results, self-learners
+- Tremendous passion for what the enterprise is doing
+
+5. Display a window and mirror maturity
+- When things go well – very comfortable pointing out the window to other people
+- When things go badly – very comfortable looking in the mirror and saying I’m responsible
+
+https://www.youtube.com/watch?v=ax4zsUhPia4 
