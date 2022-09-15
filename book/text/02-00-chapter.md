@@ -82,7 +82,7 @@ But there are downsides to this strategy. What if:
 
 There is an alternative strategy which is to hire for talent. This means to search for people who have the “valuable skills that you can’t teach”. With this approach, you screen for attributes like resiliency, adaptability, or curiosity. You also check for technical aptitude, culture fit, and a minimum amount of technical skills.
 
-If you want to take the talent approach, then book to get if you want to go deeper than what's covered in this Handbook is "The Talen War" by Mike Sarraille, George Randle, and Josh Cotton. 
+If you want to take the talent approach, then book to get if you want to go deeper than what's covered in this Handbook is "The Talent War" by Mike Sarraille, George Randle, and Josh Cotton. 
 
 Your chosen hiring strategy does not need to be mutually exclusive. There are times when you may need to hire for skill, such as a temporary assignment with work that's highly technical and highly specialized. And there are other times when you need to hire for talent, like when you want and expect someone to work with you for a long time. 
 
